@@ -1,0 +1,1427 @@
+﻿Code,Description,Default_Translation (en-en),Target_Translation (pl-pl),Has_Translation
+I18N__ADD_OPTION,I18NCode for Add Option,Add option,Add option,Yes
+I18N__ALL_USERS_ARE_ALREADY_IN_THE_GROUP,I18NCode for All users are already in the group.,All users are already in the group,All users are already in the group,Yes
+I18N__ANSWER_OF_IS_REPORTING2YOU_GDPR_COMPLIANT,I18NCode for answer of Is Reporting2You GDPR compliant,"Since 25 May the RGPD has entered into force and we all have to respect. DEEPEYE, the company of Reporting2You, has implemented all the procedures to guarantee the fulfillment of its obligations, hiring competent entities for this purpose.<br/>
+Please watch this video to understand what we have done and the impact on the experience of members and directors.","Since 25 May the RGPD has entered into force and we all have to respect. DEEPEYE, the company of Reporting2You, has implemented all the procedures to guarantee the fulfillment of its obligations, hiring competent entities for this purpose.<br/>
+Please watch this video to understand what we have done and the impact on the experience of members and directors.",Yes
+I18N__ASK_THE_GROUP_OR_MEMBER_SOMETHING,i18NCode for  Ask the group or member something,Ask the member or group something,Ask the member or group something,Yes
+I18N__DO_YOU_WANT_TO_LOG_OUT_,I18NCode for  Do you want to log out?,Do you want to logout?,Do you want to logout?,Yes
+I18N__MECHANISM_S__AVAILABLE_FOR_IMPLEMENTATION,"I18NCode for 
+mechanism(s) available for implementation",Mechanism(s) available for implementation,Mechanism(s) available for implementation,Yes
+I18N__MEMBER_SUCCESSFULLY_REMOVED_FROM_THE_GROUP,I18NCode for Member successfully removed from the group,Member successfuly removed from the group,Member successfuly removed from the group,Yes
+I18N__NO_NEW_MEMBERS_IN_THE_LAST,I18NCode for No New Members in the Last,No new members in the last,No new members in the last,Yes
+I18N__SEARCH_THE_ENTIRE_REPORTING2YOU_NETWORK,I18NCode for Search the entire reporting2you network,Search the entire reporting2you network,Search the entire reporting2you network,Yes
+I18N__SELECT_MORE_THAN_ONE_CONTACT,I18NCode for Select more than one contact,Select more than one contact,Select more than one contact,Yes
+I18N_1_2_1,1 2 1,1-2-1,1-2-1,Yes
+I18N_1_2_1_IS_REQUIRED,I18NCode for 1-2-1 is required,121 is required,121 is required,Yes
+I18N_12_MONTH_AVERAGE,I18NCode for 12 Month average,12 Month average,12 Month average,Yes
+I18N_12_MONTHS,I18NCode for 12 months,12 months,12 months,Yes
+I18N_12_MONTHS_DOTS,I18NCode for 12 months with :,12 months:,12 months:,Yes
+I18N_121,I18NCode for 121,121,121,Yes
+I18N_12MONTHS,I18NCode for Year / 12 Months ,12 Months,12 Months,Yes
+I18N_15_DAYS,I18NCode for 15 Days,15 days,15 days,Yes
+I18N_1ST_YEAR_RETENTION,,1st Year Retention,1st Year Retention,Yes
+I18N_3_PLUS_1,Indicate the 3+1 Menu Option,3+1,3+1,Yes
+I18N_3_PLUS_1_EVOLUTION,I18NCode for 3 + 1 Evolution,3 + 1 Evolution,3 + 1 Evolution,Yes
+I18N_3PLUS1LAST_MONTH,I18NCode Title for 3 + 1 - Last Month,3 + 1 - Last Month,3 + 1 - Last Month,Yes
+I18N_4_WEEKS,I18NCode for 4 weeks,4 weeks,4 weeks,Yes
+I18N_45_DAYS,I18NCode for 45 days,45 days,45 days,Yes
+I18N_6_MONTHS,I18NCode for 6 months,6 months,6 months,Yes
+I18N_7_MONTHS_ANALYSIS_TASKS,I18NCode for 7 Months Analysis Tasks,7 Months Analysis Tasks,7 Months Analysis Tasks,Yes
+I18N_7_MONTHS_ANALYSIS_TASKS_DESCRIPTION,I18NCode for 7 Months Analysis Tasks Description,Activate tasks for the 7 month analysis,Activate tasks for the 7 month analysis,Yes
+I18N_8_VECTOR_OF_SUCCESS,I18NCode 8 vector of Success,8 Vector of Success,8 Vector of Success,Yes
+I18N_8_WEEKS,I18NCode for 8 weeks,8 weeks,8 weeks,Yes
+I18N_A,I18NCode for A,A,A,Yes
+I18N_ABBREVIATED_SIZE,I18NCode for Abbreviated Size,Size,Size,Yes
+I18N_ABBREVIATION,I18NCode for Abbreviation,Abbreviation,Abbreviation,Yes
+I18N_ABS,I18NCode for ABS shortName,ABS.,ABS.,Yes
+I18N_ABSENCE,I18NCode for Absence,Absence,Absence,Yes
+I18N_ABSENCE_IS_REQUIRED,I18NCode for Absence is required,Absence is required,Absence is required,Yes
+I18N_AC,I18NCode for #AC,#AC,#AC,Yes
+I18N_AC_NONEWMEMBERS_45_DAYS,I18NCode for Active Chapters with no New Members in the last 45 days,Active Chapters with no New Members in the last 45 days,Active Chapters with no New Members in the last 45 days,Yes
+I18N_ACCOUNT_CREATED_SUCCESSFULLY,I18NCode for Account Created Successfully,Account created successfully,Account created successfully,Yes
+I18N_ACTION,I18NCode for Action (Url),Action,Action,Yes
+I18N_ACTIONS,,Actions,Actions,Yes
+I18N_ACTIVATION_DATE,I18NCode for task's activation date,Activation Date,Activation Date,Yes
+I18N_ACTIVE,I18NCode for Active,Active,Active,Yes
+I18N_ACTIVE_CHAPTER,I18NCode for Active Chapter Caption,Active Chapters,Active Chapters,Yes
+I18N_ACTIVE_CHAPTER_NO_NEW_MEMBER,I18NCode for Active Chapter No New Member,Active Chapter No New Member,Active Chapter No New Member,Yes
+I18N_ACTIVE_CHAPTERS,I18NCode for Active Chapters,Active,Active,Yes
+I18N_ACTIVE_CHAPTERS_IS_REQUIRED,I18NCode for Active chapters is required,Active chapers is required,Active chapers is required,Yes
+I18N_ACTIVE_MEMBERS,I18NCode for Active Members,Active Members,Active Members,Yes
+I18N_ACTIVE_MEMBERS_IS_REQUIRED,I18NCode for Active members is required,Active members is required,Active members is required,Yes
+I18N_ACTIVE_MEMBERSHIP,I18NCode for Active Membership,Active Membership,Active Membership,Yes
+I18N_ACTIVE_TASKS,I18NCode for Active Tasks,Activate Tasks,Activate Tasks,Yes
+I18N_ACTIVE_TASKS_DESCRIPTION,I18NCode for Active Tasks Description,Activate tasks in the system,Activate tasks in the system,Yes
+I18N_ACTIVE_ZERO_TO_ONE,I18NCode for Active Zero To One,Activate Zero-to-Ones,Activate Zero-to-Ones,Yes
+I18N_ACTIVE_ZERO_TO_ONE_DESCRIPTION,I18NCode for Active Zero To One Description,Activate Zero-to-One's in the system,Activate Zero-to-One's in the system,Yes
+I18N_ACTIVITIES,I18NCode for Activities,Activities,Activities,Yes
+I18N_ACTUAL_VS_PREVIOUS,I18NCode for Actual vs Previous,Current vs previous,Current vs previous,Yes
+I18N_AD,I18NCode for AD,AD,AD,Yes
+I18N_ADD_A_PROFILE_PICTURE_TO_HELP_WITH_MEMBER_IDENTIFICATION,I18NCode for add a profile picture to help with member identification,add a profile picture to help with member identification,add a profile picture to help with member identification,Yes
+I18N_ADD_AS,I18NCode for Add as,Add as,Add as,Yes
+I18N_ADD_BNI_GAME,I18NCode for Bni Game,Add Bni Game,Add Bni Game,Yes
+I18N_ADD_CODEI18N,I18NCode to add a new I18NCode,Add Code,Add Code,Yes
+I18N_ADD_CONTEXT,I18NCode to add a new context,Add Context,Add Context,Yes
+I18N_ADD_DIRECTOR,I18NCode for Add Director in Users Page,Add Director,Add Director,Yes
+I18N_ADD_GOAL,I18NCode for Add Goal,Add Goal,Add Goal,Yes
+I18N_ADD_KPI,I18NCode for Add Kpi,Add KPI,Add KPI,Yes
+I18N_ADD_LANGUAGE,I18NCode to add a new language,Add Language,Add Language,Yes
+I18N_ADD_MECHANISM,I18NCode for Add Mechanism,Add Mechanism,Add Mechanism,Yes
+I18N_ADD_MEMBER_TO_THE_GROUP,I18NCode for Add Member to the group,Add Member to the group,Add Member to the group,Yes
+I18N_ADD_MEMBERS_TO_FORM_THE_TEAM,I18NCode for Add members to form the team,Add members to form the team,Add members to form the team,Yes
+I18N_ADD_MODULE,I18NCode to add a new Module,Add Module,Add Module,Yes
+I18N_ADD_NEW_MENU,I18NCode for Add New Menu,Add Menu,Add Menu,Yes
+I18N_ADD_NEW_REGISTRY,I18NCode for Add New Registry,Add New Registry,Add New Registry,Yes
+I18N_ADD_PROFILE,I18NCode for Add Button in Profiles Page,Add Profile,Add Profile,Yes
+I18N_ADD_TEAM,I18NCode for Add Team,Add Team,Add Team,Yes
+I18N_ADDRESS,I18NCode for Address,Address,Address,Yes
+I18N_ADDRESS_AND_ZIP_CODE,"I18NCode for Address and zip code
+",Address and zip code,Address and zip code,Yes
+I18N_ADMIN,I18NCode for admin,Admin,Admin,Yes
+I18N_ADVANCED_DASHBOARD,I18NCode for Advanced Dashboard,Advanced Dashboard,Advanced Dashboard,Yes
+I18N_ADVANCED_SEARCH,"i18NCode for Advanced search
+",Advanced search,Advanced search,Yes
+I18N_ALERT,I18NCode for Alert,Alert,Alert,Yes
+I18N_ALERT_REPORT,I18NCode for Alert Report,Alerts Report,Alerts Report,Yes
+I18N_ALERT_TYPE,I18NCode for Alert Type,Alert Type,Alert Type,Yes
+I18N_ALERTS_LIST,I18Ncode for Alerts List,Alerts List,Alerts List,Yes
+I18N_ALL,I18NCode for ALL ,All,All,Yes
+I18N_ALL_CHAPTERS,I18NCode for All Chapters,All Chapters,All Chapters,Yes
+I18N_ALL_DDL,I18NCode for All on DDL,All,All,Yes
+I18N_ALL_MEMBERS_ADDED,I18NCode for All Members Added ,All members have already been added to the team.,All members have already been added to the team.,Yes
+I18N_ALL_TRANSLATIONS,I18NCode for all translations label,All Translations,All Translations,Yes
+I18N_ALLOW_BCC_SUBMISSIONS,I18NCode for Allow BCC Submissions label,Allow sending with Bcc,Allow sending with Bcc,Yes
+I18N_ALLOW_EMAIL_SUBMISSIONS,I18NCode for Allow Email Submissions label,Allow email submissions,Allow email submissions,Yes
+I18N_ALLOW_FOR,I18NCode for Allow For,Allow for,Allow for,Yes
+I18N_ALLOW_USERS_TO_VOTE_ON_MORE_THAN_ONE_OPTION,I18NCode for Allow users to vote on more than one option.,Allow users to vote on more than one option,Allow users to vote on more than one option,Yes
+I18N_ALLOWED_NUMBER_OF_FILES_ERROR_MESSAGE,I18NCode for Allowed Number Of Files Error Message,Only up to 2 files may be uploaded!,Only up to 2 files may be uploaded!,Yes
+I18N_AM,I18NCode for #AM,#AM,#AM,Yes
+I18N_AMB,I18NCode for AMB,AMB,AMB,Yes
+I18N_AMBASSADOR,I18NCode for Ambassador,Ambassador,Ambassador,Yes
+I18N_AMBASSADORS_TOTAL,I18NCode for Ambassadors Total,Ambassadors,Ambassadors,Yes
+I18N_AN_ERROR_OCCURRED,I18NCode for An Error Occurred,An Error occurred,An Error occurred,Yes
+I18N_ANALYTICAL_COOKIES,"I18NCode for Analytical cookies
+",Analytical cookies,Analytical cookies,Yes
+I18N_ANSWER_ANALYTICAL_COOKIES,"I18NCode for Analytical cookies
+","These cookies make it possible to examine the use and the performance of the site and to improve its operation by carrying out analyses of visits to the information pages, by monitoring the open rates, the click rates and the bounce rates at the individual level.","These cookies make it possible to examine the use and the performance of the site and to improve its operation by carrying out analyses of visits to the information pages, by monitoring the open rates, the click rates and the bounce rates at the individual level.",Yes
+I18N_ANSWER_CONTACT_DETAILS_OF_OUR_DATA_PROTECTION_OFFICER,I18NCode for Contact details of our Data Protection Officer,"For complementary information not included in this privacy policy, or to exercise any your rights, you can contact our Data Protection Officer by email at","For complementary information not included in this privacy policy, or to exercise any your rights, you can contact our Data Protection Officer by email at",Yes
+I18N_ANSWER_CONTACT_DETAILS_OF_OUR_DATA_PROTECTION_OFFICER_2,I18NCode for ANSWER CONTACT DETAILS OF OUR_DATA PROTECTION OFFICER 2,"If you are not satisfied with us, you have the right to lodge a complaint with <strong>Portugal’s Supervisory Authority</strong> at","If you are not satisfied with us, you have the right to lodge a complaint with <strong>Portugal’s Supervisory Authority</strong> at",Yes
+I18N_ANSWER_COOKIE_MANAGEMENT,I18NCode for Cookie management,"Users can accept or reject cookies on the site or refuse them once and for all through their browser settings. If the User chooses to refuse all cookies, navigation onto certain pages of the site will be reduced.
+
+Depending on the browser used by Users, the methods for deleting cookies are as follows:","Users can accept or reject cookies on the site or refuse them once and for all through their browser settings. If the User chooses to refuse all cookies, navigation onto certain pages of the site will be reduced.
+
+Depending on the browser used by Users, the methods for deleting cookies are as follows:",Yes
+I18N_ANSWER_DURATION_OF_COOKIES,"I18NCode for Duration of cookies
+","Cookies are placed on the User’s terminal for a maximum period of 13 months from the date of the User’s consent. After this period, consent will be re-obtained.","Cookies are placed on the User’s terminal for a maximum period of 13 months from the date of the User’s consent. After this period, consent will be re-obtained.",Yes
+I18N_ANSWER_FOR_HOW_THIS_INFORMATION_IS_USED,I18NCode for How this information is used,"Your personal data is used exclusively to generate reports sent to you, your chapter members, your chapter Director Consultant, chapter Area Director Consultant, Regional Executive Director or your chapter Ambassador. We also use your personal data at <strong>Reporting2You</strong> website on which only BNI Directors and authorized personnel have access.","Your personal data is used exclusively to generate reports sent to you, your chapter members, your chapter Director Consultant, chapter Area Director Consultant, Regional Executive Director or your chapter Ambassador. We also use your personal data at <strong>Reporting2You</strong> website on which only BNI Directors and authorized personnel have access.",Yes
+I18N_ANSWER_FUNCTIONAL_COOKIES,"I18NCode for Functional cookies
+",These cookies make it possible to personalise the User experience.,These cookies make it possible to personalise the User experience.,Yes
+I18N_ANSWER_HOW_ANISETUPTASKSINR2YANDAUTOMATEZEROTOONETASK,I18NCode for Answer How anISetupTasksInR2YAndAutomateZeroToOneTask,"Starting in January 1st, 2020, Reporting2You can automatically generate tasks for directors so they can implement Zero-To-One procedure to increase Retention.<br/>
+Please watch this video to understand what a Zero-To-One is, who to use it and how to setup Tasks inside Reporting2You.","Starting in January 1st, 2020, Reporting2You can automatically generate tasks for directors so they can implement Zero-To-One procedure to increase Retention.<br/>
+Please watch this video to understand what a Zero-To-One is, who to use it and how to setup Tasks inside Reporting2You.",Yes
+I18N_ANSWER_HOW_DO_WE_PROTECT_YOUR_INFORMATION,I18NCode for How do we protect your information,"We have taken all steps necessary to protect the information in our systems. We utilize encryption (for communication and storage) and security software to safeguard the confidentiality of personal information we process from unauthorized access or disclosure and accidental loss, alteration or destruction. We also perform regular tests to our infrastructure and systems in order to identify security vulnerabilities.
+
+If you have access to Reporting2You website, remember that your account is protected in part by your password. It is important that you protect and maintain your account security and that you tell us immediately of any unauthorized use of your account.","We have taken all steps necessary to protect the information in our systems. We utilize encryption (for communication and storage) and security software to safeguard the confidentiality of personal information we process from unauthorized access or disclosure and accidental loss, alteration or destruction. We also perform regular tests to our infrastructure and systems in order to identify security vulnerabilities.
+
+If you have access to Reporting2You website, remember that your account is protected in part by your password. It is important that you protect and maintain your account security and that you tell us immediately of any unauthorized use of your account.",Yes
+I18N_ANSWER_HOW_LONG_WILL_YOUR_INFORMATION_BE_HELD,I18NCode for How long will your information be held,"Your information will be kept in our system while you are a BNI Member, Director or Ambassador and up to 2 years after the termination of this relationship.","Your information will be kept in our system while you are a BNI Member, Director or Ambassador and up to 2 years after the termination of this relationship.",Yes
+I18N_ANSWER_IMNEWINREPORTING2YOUISTHEREANYQUICKOVERVIEW,"I18NCode for Answer ImNewInReporting2YouIsThereAnyQuickOverview
+
+","If you are starting using Reporting2You, you should start with this video","If you are starting using Reporting2You, you should start with this video",Yes
+I18N_ANSWER_IMPLEMENT_GAME,I18NCode for Answer Implement Game,"From now on you can easily implement a BNI Game in your chapters and forget about all the administrative work that you, your Directors or your leadership teams would have to make it happen.<br/>
+Please watch this video and learn how to use it.","From now on you can easily implement a BNI Game in your chapters and forget about all the administrative work that you, your Directors or your leadership teams would have to make it happen.<br/>
+Please watch this video and learn how to use it.",Yes
+I18N_ANSWER_ON_FIREFOX,"Answer On Firefox
+","<li>Click on the Browser Tools icon, select the Options menu.</li>
+<li>In the window that appears, choose “Privacy” and click on ""Display cookies"".</li>
+<li>Select the cookies to refuse and click on delete.</li>","<li>Click on the Browser Tools icon, select the Options menu.</li>
+<li>In the window that appears, choose “Privacy” and click on ""Display cookies"".</li>
+<li>Select the cookies to refuse and click on delete.</li>",Yes
+I18N_ANSWER_ON_GOOGLE_CHROME,I18NCode for Answer On Google Chrome,"<li>Click on the Tools icon, select the Options menu then click the Advanced Options tab.</li>
+<li>And access the “Confidentiality” section.</li>
+<li>Click on the “Show Cookies” button.</li>
+<li>Select the cookies to refuse and click on delete.</li>","<li>Click on the Tools icon, select the Options menu then click the Advanced Options tab.</li>
+<li>And access the “Confidentiality” section.</li>
+<li>Click on the “Show Cookies” button.</li>
+<li>Select the cookies to refuse and click on delete.</li>",Yes
+I18N_ANSWER_ON_INTERNET_EXPLORER,i18NCode for Answer On Internet Explorer,"<li>Click the Tools button, then Internet Options.</li>
+<li>Under the General tab, under Navigation History, click Settings.</li>
+<li>Click the Show Files button.</li>
+<li>Select the cookies to refuse and click on delete.</li>","<li>Click the Tools button, then Internet Options.</li>
+<li>Under the General tab, under Navigation History, click Settings.</li>
+<li>Click the Show Files button.</li>
+<li>Select the cookies to refuse and click on delete.</li>",Yes
+I18N_ANSWER_ON_SAFARI,i18NCode for Answer on Safari,"<li>Click the Edit icon, select the Preferences menu.</li>
+<li>Click on Security and then on Show cookies.</li>
+<li>Select the cookies to refuse and click on delete.</li>","<li>Click the Edit icon, select the Preferences menu.</li>
+<li>Click on Security and then on Show cookies.</li>
+<li>Select the cookies to refuse and click on delete.</li>",Yes
+I18N_ANSWER_SHARING_BUTTON_COOKIES,I18NCode for Answer Sharing button cookies,These social cookies allow users to share pages and content on third-party social networks via social sharing buttons.,These social cookies allow users to share pages and content on third-party social networks via social sharing buttons.,Yes
+I18N_ANSWER_THE_COOKIES_NECESSARY_FOR_NAVIGATION_ON_THE_SITE,I18NCode for Answer The cookies necessary for navigation on the site,"These cookies are necessary for the functioning of the site. They allow the main features of the site to be used. Without these cookies, Users cannot use the site normally.","These cookies are necessary for the functioning of the site. They allow the main features of the site to be used. Without these cookies, Users cannot use the site normally.",Yes
+I18N_ANSWER_WHAT_ARE_YOUR_RIGHTS,I18NCode for What are your rights,"You have the right to access your data and that your personal data is always kept up to date. Also, you have the right to ask for us to erase all your data if you think this is in your best interest. Additionally, you have the right to withdraw your consent, in which case we will stop processing your data, meaning that your name will not be visible at any report nor at reporting2you website.
+
+To exercise any of your rights, you may contact our Data Protection Officer, identified in the end of this policy.","You have the right to access your data and that your personal data is always kept up to date. Also, you have the right to ask for us to erase all your data if you think this is in your best interest. Additionally, you have the right to withdraw your consent, in which case we will stop processing your data, meaning that your name will not be visible at any report nor at reporting2you website.
+
+To exercise any of your rights, you may contact our Data Protection Officer, identified in the end of this policy.",Yes
+I18N_ANSWER_WHAT_INFORMATION_DO_WE_COLLECT_ABOUT_YOU,I18NCode for Answer What information do we collect about you,"<p>To be able to provide our services, we download from BNI Connect the following information about you:</p>
+
+<ul>
+  <li>
+    First and Last Name, Company Name, Profession, Email, Telephones, BNI Role, Join Date, Renewal Date, weekly PALMS records, Membership activity and Training Attendance (if applicable in your region or chapter).
+  </li>
+  <li>
+    If you have access to the Reporting2You website (only BNI Directors or authorized personnel), we also collect, by automatic means and through the use of the <strong>Reporting2You</strong> website, the following information: Cookies (with your authorization on the website) and Analytics (with IP anonymization).
+  </li>
+</ul>
+","<p>To be able to provide our services, we download from BNI Connect the following information about you:</p>
+
+<ul>
+  <li>
+    First and Last Name, Company Name, Profession, Email, Telephones, BNI Role, Join Date, Renewal Date, weekly PALMS records, Membership activity and Training Attendance (if applicable in your region or chapter).
+  </li>
+  <li>
+    If you have access to the Reporting2You website (only BNI Directors or authorized personnel), we also collect, by automatic means and through the use of the <strong>Reporting2You</strong> website, the following information: Cookies (with your authorization on the website) and Analytics (with IP anonymization).
+  </li>
+</ul>
+",Yes
+I18N_ANSWER_WHAT_IS_OUR_LEGAL_BASIS_FOR_PROCESSING_YOUR_PERSONAL_DATA,I18NCode for What is our legal basis for processing your personal data,"We have a formal agreement with the your BNI Franchisee, which authorizes us to collect your data from BNI Connect. We process data with your consent under Article 6 1(a) of the General Data Protection Regulation.","We have a formal agreement with the your BNI Franchisee, which authorizes us to collect your data from BNI Connect. We process data with your consent under Article 6 1(a) of the General Data Protection Regulation.",Yes
+I18N_ANSWER_WHO_ARE_WE,i18NCode for Answer Who Are We,"<strong>DeepEye</strong> is the organization that develops and maintains the <strong>Reporting2You</strong> application and platform, aimed at giving you tools to achieve high performance and better results from your BNI membership by preparing and sending you reports that help you take decisions and actions to succeed.
+
+We have our office established in Portugal.","<strong>DeepEye</strong> is the organization that develops and maintains the <strong>Reporting2You</strong> application and platform, aimed at giving you tools to achieve high performance and better results from your BNI membership by preparing and sending you reports that help you take decisions and actions to succeed.
+
+We have our office established in Portugal.",Yes
+I18N_ANSWER_WHO_RECEIVES_YOUR_INFORMATION,I18NCode for Who receives your information,"Only you, members of your chapter, BNI Directors or the Franchisee authorized personnel can receive reports containing your personal information.","Only you, members of your chapter, BNI Directors or the Franchisee authorized personnel can receive reports containing your personal information.",Yes
+I18N_ANSWERDOMEMBERSHAVEACCESSTOR2Y,I18NCode for I18NAnswerDoMembersHaveAccessToR2Y,Members from your region should watch this video.,Members from your region should watch this video.,Yes
+I18N_ANWSER_WHAT_IS_A_COOKIE,I18NCode for What is a Cookie,"A cookie is a piece of information placed on the hard drive of Internet users by the server of the site they visit. It contains several pieces of data: the name of the server which installed it, an identifier in the form of a unique number, and possibly an expiry date. This information is sometimes stored on the computer in a simple text file that a server accesses to read and save pieces of information.
+
+The <strong>Reporting2You</strong> uses cookies whose purpose is to facilitate navigation on the site, to execute the service provided by <strong>DeepEye</strong>, to measure the site’s audience or to allow pages on the site to be shared.","A cookie is a piece of information placed on the hard drive of Internet users by the server of the site they visit. It contains several pieces of data: the name of the server which installed it, an identifier in the form of a unique number, and possibly an expiry date. This information is sometimes stored on the computer in a simple text file that a server accesses to read and save pieces of information.
+
+The <strong>Reporting2You</strong> uses cookies whose purpose is to facilitate navigation on the site, to execute the service provided by <strong>DeepEye</strong>, to measure the site’s audience or to allow pages on the site to be shared.",Yes
+I18N_APPLICATION_DATE_,I18NCode for Application Date	,Application Date,Application Date,Yes
+I18N_APPLY,I18NCode for Apply,Apply,Apply,Yes
+I18N_APRIL,I18NCode for April,April,April,Yes
+I18N_ARE_YOU_SURE_YOU_WANT_TO_REMOVE_THIS_MEMBER_,I18NCode for Are you sure you want to remove this member?,Are you sure you want to remove this member?,Are you sure you want to remove this member?,Yes
+I18N_AREA,I18NCode for Area,Area,Area,Yes
+I18N_AREA_DIRECTOR_CONSULTANTS,I18NCode for Area Director Consultants,Area Director Consultants,Area Director Consultants,Yes
+I18N_AREA_DIRECTORS,I18NCode for Area Directors Page ,Area Directors,Area Directors,Yes
+I18N_ARRIVING_TO_GREEN,I18NCode for Arriving to Green,Arriving to green,Arriving to green,Yes
+I18N_ASSIGNED,I18NCode for Assigned ,Assigned,Assigned,Yes
+I18N_ATTE,I18NCode for Atte.,Atte.,Atte.,Yes
+I18N_ATTENDANCE_6_MONTHS,I18NCode for Attendance 6 Months,Attendance (6 month),Attendance (6 month),Yes
+I18N_ATTENDENCE,Attendence,Attendence,Attendence,Yes
+I18N_ATTENTION,I18NCode for Attention,Take Care,Take Care,Yes
+I18N_ATTENTION_COUNTRY,I18NCode for Menu Attention Country,Attention Country,Attention Country,Yes
+I18N_ATTENTION_MULTIREGION,I18NCode for Menu Attention Multiregion,Attention MultiRegion,Attention MultiRegion,Yes
+I18N_AUGUST,I18NCode for August,August,August,Yes
+I18N_AVAILABLE,I18NCode for Available,Available,Available,Yes
+I18N_AVAILABLE_MECANISMS,I18NCode for Available Mecanisms,Available Mecanisms,Available Mecanisms,Yes
+I18N_AVAILABLE_MEMBERS,I18NCode for Available Members,Available Members,Available Members,Yes
+I18N_AVERAGE_6AM,I18NCode for average(6 am),average (6 m),average (6 m),Yes
+I18N_AVERAGE_CHAPTER_SIZE,I18NCode for Average Chapter Size,Average Size,Average Size,Yes
+I18N_AVERAGE_POINTS,I18NCode for Average Points,Average points,Average points,Yes
+I18N_AVERAGE_SIZE,I18NCode for average size,Average Size,Average Size,Yes
+I18N_AVG,I18NCode for #Grn on table label,Avg,Avg,Yes
+I18N_AVG_DAYS,I18NCode for AVG Days,Average Days,Average Days,Yes
+I18N_AVG_POINTS_MEMBER,I18NCode for Avg Points Member,Average points by member,Average points by member,Yes
+I18N_BACK_TO_LOGIN,I18NCode for Back to login,Back to login page,Back to login page,Yes
+I18N_BACK_TO_LOGIN_PAGE,I18NCode for Back To Login Page,Back to login page,Back to login page,Yes
+I18N_BASE,I18NCodes for base,Base,Base,Yes
+I18N_BEST_PRATICES,I18NCode for Best Pratices,Best Pratices,Best Pratices,Yes
+I18N_BEST_PRATICES_CONTENT,I18NCode for BEST PRATICES Content,"<ul class=""m-4"">
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Entry and Exit of Members during the previous month can only take place by 16:00 of the second working day of each month, as the information which will form the basis for the monthly calculation shall be downloaded at the end of that day;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Monthly PALMS reports should be entered by the second working day of each month as Member Traffic Lights will be calculated at the end of that day;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">PALMS reports should be entered during the 48h following the meeting and cannot be more than 4 weeks late, as they will not be considered by Reporting2You;</span>
+        </li>
+        <li class=""text-primary m-6"">
+            <span class=""text-gray-600 fs-6"">
+                Members should not be allowed to change their names and if this happens, a notification should be sent to 
+                <a href=""mailto:info@reporting2you.com"" class=""text-primary text-decoration-none hover:text-primary""
+                   title=""Enviar email para info@reporting2you.com"">
+                    info@reporting2you.com
+                </a>
+                ;
+            </span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Groups should not be allowed to change their names and if this happens, a notification should be sent to  <a
+                    href=""mailto:info@reporting2you.com"" class=""text-primary text-decoration-none hover:text-primary""
+                    title=""Enviar email para info@reporting2you.com"">
+                info@reporting2you.com
+            </a>;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">All Groups should have a Director Consultant and Area Director on BNI Connect</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">In order to use the Core Group report as soon as the director enters the PALMS report on BNI Connect, an e-mail should be sent to  <a
+                    href=""mailto:info@reporting2you.com"" class=""text-primary text-decoration-none hover:text-primary""
+                    title=""Enviar email para info@reporting2you.com"">
+                info@reporting2you.com
+            </a>;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Regions using Group goals will have a more detailed weekly report for Leadership Teams, as it will contain the evolution of the 8 Key Success Factors over the last two months and the current month;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Monthly Reports shall be calculated at the end of the second working day of each month;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Leadership Teams should be up to date by 16:00 of the second working day of April and October. If any changes occur, a notification should be sent to  <a
+                    href=""mailto:info@reporting2you.com"" class=""text-primary text-decoration-none hover:text-primary""
+                    title=""Enviar email para info@reporting2you.com"">
+                info@reporting2you.com
+            </a>;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">If you want to stop receiving email with the reports, you need to uncheck the “Send emails” at “Regional Administration->Regional Settings->The Region” menu at reporting2you.com;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">You should use “Regional Administration->Regional Settings->Reports” menu to set who receives each report;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">You must write the word “substitution” in the drop notes, if the drop reason is really for substitute the member.</span>
+        </li>
+    </ul>","<ul class=""m-4"">
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Entry and Exit of Members during the previous month can only take place by 16:00 of the second working day of each month, as the information which will form the basis for the monthly calculation shall be downloaded at the end of that day;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Monthly PALMS reports should be entered by the second working day of each month as Member Traffic Lights will be calculated at the end of that day;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">PALMS reports should be entered during the 48h following the meeting and cannot be more than 4 weeks late, as they will not be considered by Reporting2You;</span>
+        </li>
+        <li class=""text-primary m-6"">
+            <span class=""text-gray-600 fs-6"">
+                Members should not be allowed to change their names and if this happens, a notification should be sent to 
+                <a href=""mailto:info@reporting2you.com"" class=""text-primary text-decoration-none hover:text-primary""
+                   title=""Enviar email para info@reporting2you.com"">
+                    info@reporting2you.com
+                </a>
+                ;
+            </span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Groups should not be allowed to change their names and if this happens, a notification should be sent to  <a
+                    href=""mailto:info@reporting2you.com"" class=""text-primary text-decoration-none hover:text-primary""
+                    title=""Enviar email para info@reporting2you.com"">
+                info@reporting2you.com
+            </a>;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">All Groups should have a Director Consultant and Area Director on BNI Connect</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">In order to use the Core Group report as soon as the director enters the PALMS report on BNI Connect, an e-mail should be sent to  <a
+                    href=""mailto:info@reporting2you.com"" class=""text-primary text-decoration-none hover:text-primary""
+                    title=""Enviar email para info@reporting2you.com"">
+                info@reporting2you.com
+            </a>;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Regions using Group goals will have a more detailed weekly report for Leadership Teams, as it will contain the evolution of the 8 Key Success Factors over the last two months and the current month;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Monthly Reports shall be calculated at the end of the second working day of each month;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">Leadership Teams should be up to date by 16:00 of the second working day of April and October. If any changes occur, a notification should be sent to  <a
+                    href=""mailto:info@reporting2you.com"" class=""text-primary text-decoration-none hover:text-primary""
+                    title=""Enviar email para info@reporting2you.com"">
+                info@reporting2you.com
+            </a>;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">If you want to stop receiving email with the reports, you need to uncheck the “Send emails” at “Regional Administration->Regional Settings->The Region” menu at reporting2you.com;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">You should use “Regional Administration->Regional Settings->Reports” menu to set who receives each report;</span>
+        </li>
+        <li class=""text-primary m-6""><span class=""text-gray-600 fs-6"">You must write the word “substitution” in the drop notes, if the drop reason is really for substitute the member.</span>
+        </li>
+    </ul>",Yes
+I18N_BEST_PRATICES_MESSAGE,I18NCode for Best Pratices Message on page,It is crucial for us to make clear what good practices are necessary for the proper operation of Reporting2You and in this sense we would like you to pay attention to the 10 points shown below:,It is crucial for us to make clear what good practices are necessary for the proper operation of Reporting2You and in this sense we would like you to pay attention to the 10 points shown below:,Yes
+I18N_BEST_PRATICES_NOTE,I18NCode for Best Pratices Note,NOTE: Reporting2You is not responsible for any report based on faulty or incomplete information resulting from noncompliance with any of the points shown above.,NOTE: Reporting2You is not responsible for any report based on faulty or incomplete information resulting from noncompliance with any of the points shown above.,Yes
+I18N_BNI_DAYS,I18NCode for BNI Days,BNI Days,BNI Days,Yes
+I18N_BNI_GAME_INFORMATION,I18NCode for Bni Game Information,BNI Game Information,BNI Game Information,Yes
+I18N_BNI_GAME_NAME,I18NCode for BNI Game Name,BNI Game Name,BNI Game Name,Yes
+I18N_BNI_GAMES,I18NCode for Bni Games Menu,BNI Games,BNI Games,Yes
+I18N_BNI_KPI_VIEW,I18NCode for Bni KPI View,KPI Vision in the Game,KPI Vision in the Game,Yes
+I18N_BNI_TEAM_NAME,I18NCode for Bni Team Name,Team Name,Team Name,Yes
+I18N_BNI_TEAM_VIEW,I18NCode for Bni Team View,Bni Teams Vision,Bni Teams Vision,Yes
+I18N_BROUGHT_NO_VISITOR_ON_LAST,I18NCode for Brought No Visitor On Last,Brought No Visitor On Last,Brought No Visitor On Last,Yes
+I18N_BUSINESS_PROFILE,I18NCode for Business Profile,Business profile,Business profile,Yes
+I18N_CANCEL,I18NCode for Cancel,Cancel,Cancel,Yes
+I18N_CANCEL_CANCEL_BUTTON,I18NCode for Cancel Cancel Button,"No, return","No, return",Yes
+I18N_CANCEL_CONFIRM_BUTTON,I18NCode for Cancel Confirm Button,"Yes, cancel it!","Yes, cancel it!",Yes
+I18N_CANCEL_MODAL,I18NCode for Cancel Modal,Are you sure you would like to cancel?,Are you sure you would like to cancel?,Yes
+I18N_CANCEL_WARNING_TEXT,I18NCode for Cancel Warning Text,Your form has not been cancelled!,Your form has not been cancelled!,Yes
+I18N_CC,I18NCode for #CC,#CC,#CC,Yes
+I18N_CC_NONEWMEMBERS_15_DAYS,I18NCode for Core Chapters with no new members in the last 15 days,Core Chapters with no new members in the last 15 days,Core Chapters with no new members in the last 15 days,Yes
+I18N_CELLPHONE,I18NCode for Cellphone,Cellphone,Cellphone,Yes
+I18N_CEU,I18NCode for CEU,CEU,CEU,Yes
+I18N_CEU_IS_REQUIRED,I18NCode for CEU is required,Ceu is required,Ceu is required,Yes
+I18N_CEU_THE_REGION,I18NCode for CEU The Region,CEU,CEU,Yes
+I18N_CHAIR_VALUE,I18NCode for chair value,Chair Value,Chair Value,Yes
+I18N_CHANGE_IMAGE,I18NCode for Change Image,Change image,Change image,Yes
+I18N_CHANGE_SEARCH,I18NCode for Change Search Message,Change your search,Change your search,Yes
+I18N_CHANGES_MAKE_MESSAGE,I18NCode for Changes Make Message in Modal Confirmation,Changes successfully saved!,Changes successfully saved!,Yes
+I18N_CHAPTER_AVG,Chapter AVG,Chapter AVG,Chapter AVG,Yes
+I18N_CHAPTER_DETAIL_PAGE,I18NCode for Chapter detail page,Chapter Detail Page,Chapter Detail Page,Yes
+I18N_CHAPTER_GOAL,I18NCode for Chapter Goal,Chapter Goal,Chapter Goal,Yes
+I18N_CHAPTER_GOAL_EDIT,I18NCode for Chapter Goal Edit,Edit Chapter Goal ,Edit Chapter Goal ,Yes
+I18N_CHAPTER_GOAL_MENU,I18NCode for Chapter Goal Menu,Chapter,Chapter,Yes
+I18N_CHAPTER_HEALTH_FORMATION,I18NCode for Chapter Health & Formation,Chapter Health & Formation,Chapter Health & Formation,Yes
+I18N_CHAPTER_IS_REQUIRED,I18NCode for Chapter is required,Chapter is required,Chapter is required,Yes
+I18N_CHAPTER_LAUNCH_MONTHS,I18NCode for Chapter Launch Months on tooltip in Kpi Correlation page,Time After Launch,Time After Launch,Yes
+I18N_CHAPTER_SINGULAR,I18NCode for Chapter in singular,Chapter,Chapter,Yes
+I18N_CHAPTERS,I18nCode for chapters,Chapters,Chapters,Yes
+I18N_CHAT_GROUP_NAME,I18NCode for Chat group name,Chat group name,Chat group name,Yes
+I18N_CHAT_PRIVATELY_WITH_A_CONTACT,I18NCode for Chat privately with a contact,Chat privately with a contact,Chat privately with a contact,Yes
+I18N_CHATS,i18NCode for Chats,chats,chats,Yes
+I18N_CHOOSE_THE_TYPE_OF_CHAT,I18NCode for Choose the type of chat,Choose the type of chat,Choose the type of chat,Yes
+I18N_CITY,I18NCode for City,City,City,Yes
+I18N_CLASSIFICATION,I18N for Member Activity Classification (Category),Category,Category,Yes
+I18N_CLEAR_SELECTION,"I18NCode for Clear selection
+",Clear selection,Clear selection,Yes
+I18N_CLICK_BELOW_TO_SELECT,I18NCode for Click below to select,Click below to select,Click below to select,Yes
+I18N_CLICK_TO_SEND_AN_EMAIL,I18NCode for Click to send an email,Click to send an email,Click to send an email,Yes
+I18N_CLOSE,I18Ncode button close,Close,Close,Yes
+I18N_CLOSE_ADVANCED_SEARCH,"I18NCode for Close advanced search
+",Close advanced search,Close advanced search,Yes
+I18N_CLOSE_CONFIRM_BUTTON,I18NCode for Close Confirm Button,"Yes, close it!","Yes, close it!",Yes
+I18N_CLOSE_MODAL,I18NCode for Close Modal Text,Are you sure you would like to close?,Are you sure you would like to close?,Yes
+I18N_CLOSED_CHAPTERS,I18NCode for Closed Chapters,Closed,Closed,Yes
+I18N_CM,I18NCode for #CM,#CM,#CM,Yes
+I18N_CODE,,Code,Code,Yes
+I18N_COMPANY,I18NCode for Company,Company,Company,Yes
+I18N_COMPANY_INFORMATION,I18NCode for Company Information,Company information,Company information,Yes
+I18N_COMPANY_NAME,I18NCode for Company Name,Company Name,Company Name,Yes
+I18N_COMPLETE_THE_ACCOUNT_SETUP_PROCESS_TO_GET_STARTED,I18NCode for Complete the account setup process to get started.,Complete the account setup process to get started,Complete the account setup process to get started,Yes
+I18N_COMPLETED,I18NCode to Completed,Completed,Completed,Yes
+I18N_CONFIG,I18NCode for Config,Config,Config,Yes
+I18N_CONFIGURATION_AND_GAME_PERIOD,I18NCode for Configuration and Game Period,Configuration and Game Period,Configuration and Game Period,Yes
+I18N_CONFIRM_PASSWORD,i18NCode for Confirm Password,Confirm Password,Confirm Password,Yes
+I18N_CONSISTENT_GROWTH,I18NCode for Consistent Growth,Consistent Growth,Consistent Growth,Yes
+I18N_CONTACT,I18NCode for Contact,Contact,Contact,Yes
+I18N_CONTACT_DETAILS_OF_OUR_DATA_PROTECTION_OFFICER,I18NCode for Contact details of our Data Protection Officer,Contact details of our Data Protection Officer,Contact details of our Data Protection Officer,Yes
+I18N_CONTACT_INFORMATION,I18NCode for Contact Information,Contact Information,Contact Information,Yes
+I18N_CONTACT_SPHERE,I18NCode for Contact Sphere,Contact Sphere,Contact Sphere,Yes
+I18N_CONTACT_SPHERES,I18NCode for Contact Spheres,Contact Spheres,Contact Spheres,Yes
+I18N_CONTACT_SPHERES_OPTION_NO_DATA,I18NCode Contact Spheres Option no data,"To activate Contact Spheres Option please send and email to info@reporting2you.com asking to activate it for your region.  By default only DCs and EDs will have access to it, to change it you need to go to Regional Administration\Regional Settings\Reports and set it after it has been activated.","To activate Contact Spheres Option please send and email to info@reporting2you.com asking to activate it for your region.  By default only DCs and EDs will have access to it, to change it you need to go to Regional Administration\Regional Settings\Reports and set it after it has been activated.",Yes
+I18N_CONTACT_US,I18NCode for ContactUs,Contact Us,Contact Us,Yes
+I18N_CONTACTS,I18NCode for Contacts,Contacts,Contacts,Yes
+I18N_CONTENT_MANANGMENT,I18NCodes for Content managment,Content Manangment,Content Manangment,Yes
+I18N_CONTEXT,I18NCode for Context,Context,Context,Yes
+I18N_CONTEXT_CODE,,Context,Context,Yes
+I18N_CONTEXT_DESCRIPTION,,Context description,Context description,Yes
+I18N_CONTEXT_NAME,,Context Name,Context Name,Yes
+I18N_CONTEXTS,I18NCodes for Contexts,Contexts,Contexts,Yes
+I18N_CONTRACT_DATE,I18NCode for Contract Date,Contract Date,Contract Date,Yes
+I18N_CONV,I18NCode for Conv,Conv.,Conv.,Yes
+I18N_CONVERSION,I18NCode for Conversion,Conversion,Conversion,Yes
+I18N_CONVERSION_6_MONTHS,I18NCode Conversion 6 months,Conversion (6 month),Conversion (6 month),Yes
+I18N_CONVERSION_IS_REQUIRED,I18NCode for Conversion is required,Conversion is required,Conversion is required,Yes
+I18N_COOKIE_MANAGEMENT,I18NCode for Cookie management,Cookie management,Cookie management,Yes
+I18N_COOKIES_POLICY,I18NCode for Cookies Policy,Cookies Policy,Cookies Policy,Yes
+I18N_COORDINATING_TEAM,I18N for Coordinating Team,Coordinating Team,Coordinating Team,Yes
+I18N_COPY,I18NCode for Copy,Copy,Copy,Yes
+I18N_CORE,I18NCode for Core,Core,Core,Yes
+I18N_CORE_CHAPTER,I18NCode for Core Chapter Caption,Core Chapters,Core Chapters,Yes
+I18N_CORE_CHAPTER_NO_NEW_MEMBER,I18NCode for Core Chapter No New Member,Core Chapter No New Member,Core Chapter No New Member,Yes
+I18N_CORE_CHAPTERS_IS_REQUIRED,I18NCode for Core chapters is required,Core chapters is required,Core chapters is required,Yes
+I18N_CORE_CHAPTERS_THE_REGION,I18NCode for Core Chapters The Region,Core Chapters,Core Chapters,Yes
+I18N_CORE_GROUP,I18NCode for Core Group,Core,Core,Yes
+I18N_CORE_GROUP_MEMBERS,I18NCode for Core Group Members,Core Members,Core Members,Yes
+I18N_CORE_MEMBER,I18NCode for Core Member Caption,Core Members,Core Members,Yes
+I18N_CORE_MEMBERS,I18NCode for Code Members Kpi Graph,Core Members,Core Members,Yes
+I18N_CORE_MEMBERS_IS_REQUIRED,I18NCode for Core members is required,Core Members is required,Core Members is required,Yes
+I18N_CORE_MEMBERS_THE_REGION,I18NCode for Core Members The Region,Core Members,Core Members,Yes
+I18N_COUNTRY,I18NCode for Country,Country,Country,Yes
+I18N_COUNTRY_AVG,I18NCode for Country AVG,Country Avg,Country Avg,Yes
+I18N_COUNTRY_CANNOT_EXCEED_50_CHARACTERS,I18NCode for Country cannot exceed 50 characters,Country cannot exceed 50 characteres,Country cannot exceed 50 characteres,Yes
+I18N_COUNTRY_DEVELOPMENT,I18nCode for Country Development,Country Development,Country Development,Yes
+I18N_COUNTRY_EVOLUTION,I18NCode for Country Evolution Page,Country Evolution,Country Evolution,Yes
+I18N_COUNTRY_GOAL_EDIT,I18NCode for Country GOAL EDIT,Edit Country Goal,Edit Country Goal,Yes
+I18N_COUNTRY_GOAL_MENU,I18NCode for Country Goal Menu,Country,Country,Yes
+I18N_COUNTRY_IS_REQUIRED,I18NCode for Country is required,Country is required,Country is required,Yes
+I18N_COUNTRY_LAST_MONTH,I18NCode for Country Last Month,Country Last Month,Country Last Month,Yes
+I18N_COUNTRY_TABLE,I18NCode for Country Label,Country,Country,Yes
+I18N_CREATE,I18NCode for Create,Create,Create,Yes
+I18N_CREATE_A_GROUP_FOR_YOUR_CONTACTS,I18NCode for Create a group for your contacts,Create a group chat for your contacts,Create a group chat for your contacts,Yes
+I18N_CREATE_AN_ACCOUNT,I18NCode for Create an Account,Create an account,Create an account,Yes
+I18N_CREATE_CHAT,i18NCode for Create Chat,Create chat,Create chat,Yes
+I18N_CREATE_GROUP,I18NCode for Create group,Create group,Create group,Yes
+I18N_CREATE_NEW_CHAT,I18NCode for Create New Chat,Create New Chat,Create New Chat,Yes
+I18N_CREATE_POLL,I18NCode for Create Poll,Create Poll,Create Poll,Yes
+I18N_CREATE_USER_ERROR_MESSAGE,I18NCode for Create User Error Message,"System could not find the profile with this email, please contact our support.","System could not find the profile with this email, please contact our support.",Yes
+I18N_CREATED_AT,,Created at,Created at,Yes
+I18N_CURRENCY,I18Ncode for currency ,$,$,Yes
+I18N_CURRENT,I18NCode for Current,Current,Current,Yes
+I18N_CURRENT_COUNT,"I18NCode for Current Count
+",Current Count,Current Count,Yes
+I18N_CURRENT_MONTH,I18NCodefor Current Month,Current Month,Current Month,Yes
+I18N_CURRENT_MOTH,I18NCode to represent current moth,Current Month,Current Month,Yes
+I18N_CURRENT_REPORTS,I18NCode for Current Reports,Current reports,Current reports,Yes
+I18N_CURRENT_STATUS,I18NCode for Current Status,Current status,Current status,Yes
+I18N_DA,I18NCode for Area Director,Area Director,Area Director,Yes
+I18N_DA_SHORTNAME_,I18NCode for DA ShortName	,AD,AD,Yes
+I18N_DASHBOARDS,I18NCode for dashboards,Dashboard,Dashboard,Yes
+I18N_DATA_ANALYSIS,,Data Analysis,Data Analysis,Yes
+I18N_DATE,I18NCode for Date,Date,Date,Yes
+I18N_DAYS,I18NCode for Days,Days,Days,Yes
+I18N_DAYS_TO_END,I18NCode for Days to end,Days till End,Days till End,Yes
+I18N_DAYS_TO_START,I18NCode for Days to start,Days to start,Days to start,Yes
+I18N_DAYS_TOTAL,I18NCode for Days Total,Total Days,Total Days,Yes
+I18N_DC,I18NCode for Consultant Director,Consultant Director,Consultant Director,Yes
+I18N_DC_PROFILE,I18NCode for DC,DC,DC,Yes
+I18N_DC_SHORTNAME,I18NCode for DC ShortName,CD,CD,Yes
+I18N_DC_TOTAL,I18NCode for DC Total,DC,DC,Yes
+I18N_DECEMBER,I18NCode for December,December,December,Yes
+I18N_DEFINE_GOALS__TRACK_AND_IMPROVE_PRODUCTIVITY_AND_MONITORING_INDICATORS_FOR_ALL_,"I18NCode for Define goals, track and improve Productivity and Monitoring indicators for all.","Define goals, track and improve Productivity and Monitoring indicators for all","Define goals, track and improve Productivity and Monitoring indicators for all",Yes
+I18N_DEFINED,I18NCode for Defined,defined.,defined.,Yes
+I18N_DEFINED_GOALS,I18NCode for Defined Goals,,,Yes
+I18N_DELETE_CANCEL_BUTTON,I18NCode for Delete Cancel Button,"No, cancel","No, cancel",Yes
+I18N_DELETE_CHAT,I18NCode for Delete Chat,Delete Chat,Delete Chat,Yes
+I18N_DELETE_CHAT_MESSAGE_MODAL,I18NCode for Delete Chat Message Modal,Are you sure you want to delete this chat?,Are you sure you want to delete this chat?,Yes
+I18N_DELETE_CONFIRM_BUTTON,I18NCode for Delete Confirm Button,"Yes, delete it!","Yes, delete it!",Yes
+I18N_DELETE_MESSAGE_MODAL,I18NCode for Delete Message Modal,Are you sure you want to delete this message?,Are you sure you want to delete this message?,Yes
+I18N_DELETE_MESSAGE_SUCCESS,I18NCode for Delete Message Success,Message delete with success,Message delete with success,Yes
+I18N_DELETE_MODAL,I18NCode for Delete Modal Text,Are you sure you want to delete this item?,Are you sure you want to delete this item?,Yes
+I18N_DELETE_SUCCESS_MODAL,I18NCode for Delete Success Modal Text,Deleted with Success,Deleted with Success,Yes
+I18N_DELETE_WARNING_TEXT,I18NCode for Delete Warning Text,The item was not deleted!,The item was not deleted!,Yes
+I18N_DEMOTE_TO_MEMBER,"I18NCode for Demote to member
+",Demote to member,Demote to member,Yes
+I18N_DESCRIPTION,,Description,Description,Yes
+I18N_DETAILS,I18NCode for details,Details,Details,Yes
+I18N_DEVELOPMENT,I18NCode for Franchise Development,Development,Development,Yes
+I18N_DEX,I18NCode for DEX,DEX,DEX,Yes
+I18N_DIF,I18NCode for Dif,Dif.,Dif.,Yes
+I18N_DIFUSION,I18NCode for Difusion,Difusion,Difusion,Yes
+I18N_DIRECTOR,I18NCode fo Director,Director,Director,Yes
+I18N_DIRECTOR_CANNOT_EXCEED_50_CHARACTERS,I18NCode for Director cannot exceed 50 characters,Director cannot exceed 50 characters,Director cannot exceed 50 characters,Yes
+I18N_DIRECTOR_CONSULTANTS,I18NCode for Director Consultants,Director Consultants,Director Consultants,Yes
+I18N_DIRECTOR_DO_NOT_PAY,I18NCode for Director Don´t Pay label,Allow the Director not to pay,Allow the Director not to pay,Yes
+I18N_DIRECTOR_DO_NOT_PAY_MEMBERSHIP,I18NCode for Director Don't Pay Membership,Director Don't Pay Membership,Director Don't Pay Membership,Yes
+I18N_DIRECTOR_GOAL,I18NCode for Director Goal ,Edit Director Goal,Edit Director Goal,Yes
+I18N_DIRECTOR_GOAL_MENU,I18NCode for Diretor Goals Menu,Director,Director,Yes
+I18N_DIRECTOR_IS_REQUIRED,I18NCode for Director is required,Director is required,Director is required,Yes
+I18N_DIRECTOR_PROFILE_PAGE,I18NCode for Director Profile Page,,,Yes
+I18N_DIRECTOR_TYPE,I18NCode for Director Type,Director Type,Director Type,Yes
+I18N_DIRECTOR_TYPE_CANNOT_EXCEED_50_CHARACTERS,I18NCode for Director Type cannot exceed 50 characters,Director type cannot exceed 50 characters,Director type cannot exceed 50 characters,Yes
+I18N_DIRECTOR_TYPE_IS_REQUIRED,I18NCode for Director Type is Required,Director type is required,Director type is required,Yes
+I18N_DIRECTORS,I18NCode for Directors,Directors,Directors,Yes
+I18N_DISCARD,I18NCode for the discard button,Cancel,Cancel,Yes
+I18N_DO_MEMBERS_HAVE_ACCESS_TO_R2Y,I18NCode for Do members have access to R2Y,Do members have access to R2Y,Do members have access to R2Y,Yes
+I18N_DOLAR_MEMBER,I18NCode for $ /Member,/Member,/Member,Yes
+I18N_DOLAR12M,I18NCode for $ /12m,/12m,/12m,Yes
+I18N_DONT_EXIST_MEMBERS,I18NCode for Dont Exist Members,Don't exist members,Don't exist members,Yes
+I18N_DOWN,I18NCode for Down,Down,Down,Yes
+I18N_DOWNLOAD_COMPLETED,"I18NCode for Download completed
+",Download completed,Download completed,Yes
+I18N_DOWNLOAD_DOCUMENT_HERE,I18NCode for Download Document here,Download the document here,Download the document here,Yes
+I18N_DOWNLOAD_FAILED,I18NCode for Download failed,Download failed,Download failed,Yes
+I18N_DOWNLOADED_SUCCESSFULLY,"I18NCode for Downloaded Successfully
+
+",Downloaded successfully,Downloaded successfully,Yes
+I18N_DROP_TYPE,I18NCode for Drop Type,Drop Type,Drop Type,Yes
+I18N_DROPPED,I18NCode for Dropped,Dropped,Dropped,Yes
+I18N_DROPPED_MEMBERS,I18NCode for Dropped Members,Dropped Members,Dropped Members,Yes
+I18N_DROPPED_MEMBERS_ACTIVE_CHAPTERS,I18NCode for Dropped Members Active Chapters,Dropped Members / Active Chapters,Dropped Members / Active Chapters,Yes
+I18N_DROPS,I18NCode for Drops,Drops,Drops,Yes
+I18N_DROPS_IS_REQUIRED,I18NCode for Drops is required,Drops is required,Drops is required,Yes
+I18N_DROPS_THE_REGION,I18NCode for Drops The Region,Drops,Drops,Yes
+I18N_DROPSS,I18NCode for Drops,Drops,Drops,Yes
+I18N_DUPLICATE_CONFIRM_BUTTON,I18NCode for Duplicate Confirm Button,"Yes, duplicate!","Yes, duplicate!",Yes
+I18N_DUPLICATE_VALUE,I18NCode for Duplicate Value,Duplicate Value,Duplicate Value,Yes
+I18N_DURATION_OF_COOKIES,"I18NCode for Duration of cookies
+",Duration of cookies,Duration of cookies,Yes
+I18N_ED,I18NCode for ED,ED,ED,Yes
+I18N_EDIT,I18NCode for Edit ,Edit,Edit,Yes
+I18N_EDIT_CHAPTER_NAME,I18NCode for Edit Chapter Name,Edit Chapter Name,Edit Chapter Name,Yes
+I18N_EDIT_MEMBER_NAME,I18NCode for Edit Member Name,Edit Member Name,Edit Member Name,Yes
+I18N_EDIT_REGION_NAME,I18NCode for Edit Region Name,Edit Region Name,Edit Region Name,Yes
+I18N_EDIT_TEAM,I18NCode for Edit Team,Editing Team,Editing Team,Yes
+I18N_EDIT_VALUES,I18NCode for Edit Values,Edit Value,Edit Value,Yes
+I18N_EL,I18NCode for EL,LT,LT,Yes
+I18N_ELECTRONIC_CONTACT,"I18NCode for Electronic contact
+",Electronic Contact,Electronic Contact,Yes
+I18N_EMAIL,I18NCode for Email label,Email,Email,Yes
+I18N_EMAIL_IS_REQUIRED,I18NCode for Email Is Required,Email is a required field,Email is a required field,Yes
+I18N_EMAIL_SENT_SUCCESSFULLY,I18NCode for Email Sent Successfully,Email sent successfully!,Email sent successfully!,Yes
+I18N_EMPTY_TEAM,I18NCode for Empty Team,Empty Team,Empty Team,Yes
+I18N_EMPTY_TRANSLATIONS,No translations available for the selected item.,No translations available for the selected item.,No translations available for the selected item.,Yes
+I18N_ENABLE_CALCULATIONS,I18NCode for Enable Calculations,Enable Calculations,Enable Calculations,Yes
+I18N_END_DATE,I18NCode for End Date,End Date,End Date,Yes
+I18N_END_DATE_IS_REQUIRED,I18NCode for  End Date is required,End date is required,End date is required,Yes
+I18N_ENTER_YOUR_EMAIL_TO_RESET_YOUR_PASSWORD_,"I18NCode for Enter your email to reset your password.
+",Enter your email to reset your password,Enter your email to reset your password,Yes
+I18N_ENTREPRISE,I18NCode for hidden row in Upcoming Renewels Page,Company,Company,Yes
+I18N_EQUAL,I18NCode for Equal,Equal,Equal,Yes
+I18N_ERROR,I18NCode for Error,Error,Error,Yes
+I18N_ERROR_PROCESSING_REQUEST,I18NCode for Error Processing Request,Erros processing your request,Erros processing your request,Yes
+I18N_EVENT_NAME,18NCode for Event Name,Event Name,Event Name,Yes
+I18N_EVOLUCAO,I18NCode for Evolution,Evolution,Evolution,Yes
+I18N_EVOLUTION_REPORT,I18NCode for Evolution Report,Evolution Report,Evolution Report,Yes
+I18N_EVOLUTIONS,I18NCode for Evolution page title,Evolutions,Evolutions,Yes
+I18N_EXCLUDED,I18NCode for Excluded,Excluded,Excluded,Yes
+I18N_EXECUTIVE_DIRECTOR,I18NCode for Executive Director,Executive Director,Executive Director,Yes
+I18N_EXISTING_REPORTS,I18NCode for Existing Reports,Existing Reports,Existing Reports,Yes
+I18N_EXIT,I18NCode for Exit,Exit,Exit,Yes
+I18N_EXPIRED,I18NCode for Expired Tasks,Expired,Expired,Yes
+I18N_EXPORT,I18NCode for Export,Export,Export,Yes
+I18N_EXPORT_COPY,I18NCode user for copy  on export dropdown,Copy to clipboard,Copy to clipboard,Yes
+I18N_EXPORT_CSV,I18NCode user for export as csv on dropdown,Export as CSV,Export as CSV,Yes
+I18N_EXPORT_EVOLUTION_PDF,I18NCode for Export Evolution Pdf Button,Export Evolution PDF,Export Evolution PDF,Yes
+I18N_EXPORT_EXCEL,I18NCode user for export as excel on dropdown,Export as Excel,Export as Excel,Yes
+I18N_EXPORT_GENERAL_REPORT,I18NCode for Export General Report in Notable Networkers Page,Export General Report,Export General Report,Yes
+I18N_EXPORT_PDF,I18NCode user for export as pdf on dropdown,Export as PDF,Export as PDF,Yes
+I18N_EXPORT_REPORT,I18NCode for label on export dropdown,Export Report,Export Report,Yes
+I18N_EXPORT_TRANSLATIONS,I18NCode for Export Translations,Export Translations,Export Translations,Yes
+I18N_EXTERNAL,I18NCode for External,External,External,Yes
+I18N_FAILED_TO_CREATE_ACCOUNT,I18NCode for Failed To Create Account,Failed to create account,Failed to create account,Yes
+I18N_FAILED_TO_RESET_PASSWORD,I18NCode for Failed to reset Password,Failed to reset Password,Failed to reset Password,Yes
+I18N_FAILED_TO_SEND_EMAIL,I18NCode for Failed To Send Email,Failed to send email,Failed to send email,Yes
+I18N_FALLING_MEMBERS,I18NCode for Falling members,Falling,Falling,Yes
+I18N_FAQ_1,I18NCode for Faq 1,"Chapter President shows as ""N/A"", why?","Chapter President shows as ""N/A"", why?",Yes
+I18N_FAQ_1_ANSWER,I18NCode for Faq 1 Answer,"When Chapter Leadership name shows as ""N/A"" it means that his/her email was changed. Need to update his/her email on reporting2you","When Chapter Leadership name shows as ""N/A"" it means that his/her email was changed. Need to update his/her email on reporting2you",Yes
+I18N_FAQ_2,I18NCode for Faq 2,Where can I find Chapter Reports?,Where can I find Chapter Reports?,Yes
+I18N_FAQ_2_ANSWER,I18NCode for Faq 2 Answer,"Go to Reports Menu click the plus sign (""+"") to open Chapters tree and then click on the chapters name, you will get the list of reports from current month to that chapter.<br/> If you want to get a previous report you should click the ""History"" item in the Chapters list and you will be able to get reports from the past 12 month.","Go to Reports Menu click the plus sign (""+"") to open Chapters tree and then click on the chapters name, you will get the list of reports from current month to that chapter.<br/> If you want to get a previous report you should click the ""History"" item in the Chapters list and you will be able to get reports from the past 12 month.",Yes
+I18N_FAQS,I18NCode for Faqs,Faqs,Faqs,Yes
+I18N_FAST__EFFICIENT_AND_PRODUCTIVE,"I18NCode for Fast, Efficient and Productive
+","Fast, Efficient and Productive","Fast, Efficient and Productive",Yes
+I18N_FEBRUARY,I18NCode for February,February,February,Yes
+I18N_FEE,I18NCode for Fee,Fee,Fee,Yes
+I18N_FILES,I18NCode for Files,Files,Files,Yes
+I18N_FILL,I18NCode for Fill,Fill,Fill,Yes
+I18N_FILL_CHAPTERS,I18NCode for Fill Chapters,Fill Chapters,Fill Chapters,Yes
+I18N_FILTER,I18NCode for Filter,Filter,Filter,Yes
+I18N_FILTER_OPTIONS,I18NCode for Filter Options,Filter options,Filter options,Yes
+I18N_FIRST,I18NCode for First,First,First,Yes
+I18N_FIRST_MEMBERS_IN_TRAFFIC_LIGHTS,I18NCode for First Members in Traffic Lights,First Members in Traffic Lights,First Members in Traffic Lights,Yes
+I18N_FIRST_NAME,I18NCode for First Name label,First Name,First Name,Yes
+I18N_FIRST_YEAR_RETAIN,I18NCode for First Year Retain,First Year,First Year,Yes
+I18N_FIRST_YEAR_RETENTION,I18NCode for First Year Retention,First Year Retention,First Year Retention,Yes
+I18N_FLAG,I18NCode for the flag,Flag,Flag,Yes
+I18N_FOLLOW_UP,I18NCode for Follow Up Page in Tasks Menu,Follow Up,Follow Up,Yes
+I18N_FOR,"i18NCode for ""For""",for,for,Yes
+I18N_FOR_SUBSTITUTION,"I18NCode for ""For Substitution""",For Substitution,For Substitution,Yes
+I18N_FORGOT_PASSWORD_,I18NCode for Forgot Password?,Forgot Password?,Forgot Password?,Yes
+I18N_FORMATION,I18NCode for Formation,Formation,Formation,Yes
+I18N_FORMATIONS,I18NCode for Formations,Formations,Formations,Yes
+I18N_FORMATS,I18NCode for Formats,Formats,Formats,Yes
+I18N_FRANCHISE,I18NCode for Franchise,Franchise,Franchise,Yes
+I18N_FROM,I18Code for From,From,From,Yes
+I18N_FUNCTIONAL_COOKIES,"I18NCode for Functional cookies
+",Functional cookies,Functional cookies,Yes
+I18N_FUTURE_RENEWALS,I18NCode for Future Renewals,Future Renewals,Future Renewals,Yes
+I18N_GAME_RESULT,I18NCode for Game Result,Game result for,Game result for,Yes
+I18N_GAMES,I18NCode for Games,Games,Games,Yes
+I18N_GENERATE,I18NCode for Generate,Generate,Generate,Yes
+I18N_GENERATE_TEAMS,I18NCode for Generate Teams,Automatically generate teams,Automatically generate teams,Yes
+I18N_GET_DEFAULT,I18NCode for Get Default,Get Default,Get Default,Yes
+I18N_GIVE_NO_REFERRALS_ON_LAST,I18NCode for Give No Referrals On Last,Give No Referrals On Last,Give No Referrals On Last,Yes
+I18N_GIVEN_BUSINESS,I18NCode for Given Business Chart,Given Business,Given Business,Yes
+I18N_GIVEN_REFERRALS,I18NCode for Given Referrals Chart,Given Referrals,Given Referrals,Yes
+I18N_GOAL,I18NCode for Goal,Goal,Goal,Yes
+I18N_GOAL_ABREV,I18NCode for Goal,Goal,Goal,Yes
+I18N_GOAL_ABSENTISM_TOOLTIP,I18NCode for Goal Absentism Tooltip,Expected absence at the end of the period (ex: 2.5),Expected absence at the end of the period (ex: 2.5),Yes
+I18N_GOAL_CEU_TOOLTIP,I18Ncode for Goal Ceu Tooltip,Chapter Education Units/member/week,Chapter Education Units/member/week,Yes
+I18N_GOAL_CONVERSIONTOOLTIP,I18NCode for Goal ConversionTooltip,Average Conversion (ex: 17.5),Average Conversion (ex: 17.5),Yes
+I18N_GOAL_ENTRIES_TOOLTIP,I18NCode for Goal Entries Tooltip,Number of expected new members in the period for all the context,Number of expected new members in the period for all the context,Yes
+I18N_GOAL_EXIT_TOOLTIP,I18NNCode for Goal Exit Tooltip,Number of expected dropouts in the period for all the context,Number of expected dropouts in the period for all the context,Yes
+I18N_GOAL_OTO_TOOLTIP,I18NCode for Goal oto Tooltip,1-2-1s/member/month,1-2-1s/member/month,Yes
+I18N_GOAL_REFERRALS_TOOLTIP,I18NCode for Goal Referrals Tooltip,Referrals/member/week,Referrals/member/week,Yes
+I18N_GOAL_RENEWALS,I18NCode for Goal Renewals in graphic,Renewals Goal,Renewals Goal,Yes
+I18N_GOAL_RENOVATION_TOOLTIP,I18NCode for Goal Renovation Tooltip,Total submitted renewals at the end of the period,Total submitted renewals at the end of the period,Yes
+I18N_GOAL_RETENTIONTOOLTIP,Goal RetentionTooltip,Desired Retention at the end of the period (ex: 70),Desired Retention at the end of the period (ex: 70),Yes
+I18N_GOAL_SIZE_TOOLTIP,I18NCode for Goal Size Tooltip,Expected Average Chapter size at the end of the period,Expected Average Chapter size at the end of the period,Yes
+I18N_GOAL_TRACKING,I18NCode for Goal Tracking,Goal Tracking,Goal Tracking,Yes
+I18N_GOAL_TYFCB_TOOLTIP,I18NCode for Goal TYFCB Tooltip,Thank You For Closed Business,Thank You For Closed Business,Yes
+I18N_GOAL_VISITS_TOOLTIP,I18NCode for Goal Visits Tooltip,Visitors/chapter/week,Visitors/chapter/week,Yes
+I18N_GOALS,,Goals,Goals,Yes
+I18N_GREATER_THAN_OR_EQUAL_TO_0,I18NCode for Greater Than Or Equal To 0,Greater than or equal to 0,Greater than or equal to 0,Yes
+I18N_GREATER_THAN_OR_EQUAL_TO_2_FAULTS,I18NCode for Greater than or equal to 2 faults,greater than or equal to 2 faults,greater than or equal to 2 faults,Yes
+I18N_GREEN,I18NCode for Green,Green,Green,Yes
+I18N_GREEN_LABEL_INFO,I18NCode for Green Label Info,new members that reached Green,new members that reached Green,Yes
+I18N_GRN,I18NCode for #Grn on table label,#Grn,#Grn,Yes
+I18N_GROUP,I18NCode for Group,Group,Group,Yes
+I18N_GROUP_CHAT,I18NCode for Group Chat,Group chat,Group chat,Yes
+I18N_GROUP_CHATS_ONLY,"I18NCode for Group chats only
+",Group chats only,Group chats only,Yes
+I18N_GROUP_MECHANISMS,I18NCode for Group Mechanisms Page,Chapter Mechanisms,Chapter Mechanisms,Yes
+I18N_GROUP_MEMBERS,I18NCode for Group Members,Group members,Group members,Yes
+I18N_GROUPS,,Chapters,Chapters,Yes
+I18N_GROW,I18NCode for Grow.,Grow.,Grow.,Yes
+I18N_GROWTH,I18NCode for Growth,Growth,Growth,Yes
+I18N_GROWTH_TRACKING_MECHANISMS,I18NCode for Growth Tracking Mechanisms,Growth Tracking Mechanisms,Growth Tracking Mechanisms,Yes
+I18N_GRY,I18NCode for #Gry on table label,#Gry,#Gry,Yes
+I18N_HAS_DEFINED_GOALS,"I18Ncode for Has defined goals
+",with defined goals,with defined goals,Yes
+I18N_HAS_FINANCIAL_DATA,I18NCode for Has Financial Data,Has Financial Data,Has Financial Data,Yes
+I18N_HAS_GOAL,I18NCode for Has Goal,Has Goal,Has Goal,Yes
+I18N_HAVE_YOU_ALREADY_RESET_THE_PASSWORD,I18NCode for Have You Already Reset The Password,Have you already reset the password?,Have you already reset the password?,Yes
+I18N_HELP,I18NCode for Help,Help,Help,Yes
+I18N_HELP_RESIZE_IMAGE_MODAL,"I18NCode for Drag to position, use the corners to resize the cropping area.
+","Drag to position, use the corners to resize the cropping area.","Drag to position, use the corners to resize the cropping area.",Yes
+I18N_HIDE_FROM_REPORT,I18NCode for Hide From Report,Hide From Report,Hide From Report,Yes
+I18N_HOST_TEAM,I18NCode for Host Team,Host Team,Host Team,Yes
+I18N_HOW,I18NCode for How,How,How,Yes
+I18N_HOW_CAN_I_SETUP_TASKS_IN_REPORTING2YOU_AND_AUTOMATE_ZERO_TO_ONE_TASK,I18NCode for How can I setup Tasks in Reporting2You and automate Zero-To-One Task,How can I setup Tasks in Reporting2You and automate Zero-To-One Task,How can I setup Tasks in Reporting2You and automate Zero-To-One Task,Yes
+I18N_HOW_DO_I,I18NCode for How do i,How do i...,How do i...,Yes
+I18N_HOW_DO_WE_PROTECT_YOUR_INFORMATION,I18NCode for How do we protect your information,How do we protect your information?,How do we protect your information?,Yes
+I18N_HOW_LONG_WILL_YOUR_INFORMATION_BE_HELD,I18NCode for How long will your information be held,How long will your information be held?,How long will your information be held?,Yes
+I18N_HOW_THIS_INFORMATION_IS_USED,I18NCode for How this information is used,How this information is used?,How this information is used?,Yes
+I18N_HOW_TO_IMPROVE,I18NCode for How to Improve,How do i improve,How do i improve,Yes
+I18N_I_M_NEW_IN_REPORTING2YOU__IS_THERE_ANY_QUICK_OVERVIEW,I18NCode for I'm new in Reporting2You! Is there any quick overview,I'm new in Reporting2You! Is there any quick overview,I'm new in Reporting2You! Is there any quick overview,Yes
+I18N_I18N_DESCRIPTION_IS_VERY_USEFUL,I18NCode for I18n Description is very Useful,Description is very useful,Description is very useful,Yes
+I18N_I18N_WITH_HISTORY_,I18NCode for With History ,History,History,Yes
+I18N_I18N_ZEROREF_W,I18NCode for ZeroREF/week,ZeroREF/W,ZeroREF/W,Yes
+I18N_I18NCODES,I18NCodes for I18NCodes,I18N Codes,I18N Codes,Yes
+I18N_ICON,I18NCode for Icon,Icon,Icon,Yes
+I18N_IGNORED,I18NCode to Ignored,Ignored,Ignored,Yes
+I18N_IMAGE_GAME,I18NCode for Image Game,Image Game,Image Game,Yes
+I18N_IMAGE_UPLOAD_ERROR,I18NCode for Image Upload Error,Error submitting image.,Error submitting image.,Yes
+I18N_IMAGE_UPLOAD_SUCCESS,I18NCode for Image Upload Success,Image submitted successfully.,Image submitted successfully.,Yes
+I18N_IMPERSONATION_MODE,I18NCode for Impersonation Mode,Impersonation Mode,Impersonation Mode,Yes
+I18N_IMPLEMENT_A_BNI_GAME,I18NCode for Implement a BNI Game,Implement a BNI Game,Implement a BNI Game,Yes
+I18N_IMPLEMENT_GAME_NOTE,I18NCode for Implement Game Note,"Note:To configure this report to be sent to members, or Directors you need to go to Regional Administration -> Regional Settings and at the Reports section set who do you want to receive the BNI Game report.<br/>
+After this, a report will be generated every Monday for each active BNI Game in your region.","Note:To configure this report to be sent to members, or Directors you need to go to Regional Administration -> Regional Settings and at the Reports section set who do you want to receive the BNI Game report.<br/>
+After this, a report will be generated every Monday for each active BNI Game in your region.",Yes
+I18N_IMPORT_TRANSLATIONS,I18NCode for Import Translations,Import Translations,Import Translations,Yes
+I18N_IMPROVE,I18NCode for Improve,To improve,To improve,Yes
+I18N_IN,I18NCode for In,In,In,Yes
+I18N_IN_THE_LAST,I18NCode for In the Last,In the last,In the last,Yes
+I18N_IN_THE_LASTS,I18NCode for In the Last,In the last,In the last,Yes
+I18N_IN_THIS_DATE_RANGE_,"I18NCode for in this date range.
+",in this date range.,in this date range.,Yes
+I18N_INACTIVE,I18NCode for Inactive,Inactive,Inactive,Yes
+I18N_INACTIVITY_NOTICE,"I18NCode for Inactivity Notice
+",Inactivity notice,Inactivity notice,Yes
+I18N_INCOMPLETE_DOWNLOAD,"I18NCode for Incomplete download
+",Incomplete download,Incomplete download,Yes
+I18N_INDICATORS,I18NCode for Indicators,Indicators,Indicators,Yes
+I18N_INDUSTRY,I18NCode for Industry,Industry,Industry,Yes
+I18N_INITIAL_COUNT,I18NCode for Initial Count,Initial Count,Initial Count,Yes
+I18N_INITIATE_A_POLL,i18NCode for Initiate a Poll,Initiate a poll,Initiate a poll,Yes
+I18N_INSERT_CODE,I18NCode for I18N name placeholder on modals	,Fill Code with I18N,Fill Code with I18N,Yes
+I18N_INSERT_CONTEXT,I18NCode for Context name placeholder on modals	,Enter a name for the new module type,Enter a name for the new module type,Yes
+I18N_INSERT_CONTEXT_DESCRIPTION,I18NCode for description placeholder modals	,Fill in the name of the new context,Fill in the name of the new context,Yes
+I18N_INSERT_DESCRIPTION,I18NCode for I18N description placeholder on modals	, Fill with the I18NCode description, Fill with the I18NCode description,Yes
+I18N_INSERT_DROP_FILES_TASK,I18NCode for the dropzone in task's modal,Drop the files here,Drop the files here,Yes
+I18N_INSERT_LANGUAGE_DESCRIPTION,I18NCode for language description placeholder modals	,Fill in the description of the new language,Fill in the description of the new language,Yes
+I18N_INSERT_LANGUAGE_NAME,I18NCode for language name placeholder modals	,Fill in the language  of the new language,Fill in the language  of the new language,Yes
+I18N_INSERT_LANGUAGE_SHORTNAME,I18NCode for shortname placeholder modals	,Fill in the shortname of the new language,Fill in the shortname of the new language,Yes
+I18N_INSERT_MECHANISMS,I18NCode for Insert Mechanisms,Insert Mechanisms,Insert Mechanisms,Yes
+I18N_INSERT_MODULE,I18NCode for module name placeholder on modals, Fill in the name of the new module, Fill in the name of the new module,Yes
+I18N_INSERT_MODULE_DESCRIPTION,I18NCode for description placeholder modals,Enter a name for the new module type,Enter a name for the new module type,Yes
+I18N_INSERT_PROFILE_DESCRIPTION,I18NCode for Insert Profile Description,Insert Profile Description,Insert Profile Description,Yes
+I18N_INSERT_PROFILE_NAME,I18NCode for Insert Profile Name,Insert Profile Name,Insert Profile Name,Yes
+I18N_INSERT_TASK_DESCRIPTION,I18NCode for insert description in task's modal,Enter a Description,Enter a Description,Yes
+I18N_INSERT_TRANSLATION_DESCRIPTION,I18NCode for translation description placeholder modals,Fill with the language description,Fill with the language description,Yes
+I18N_INTERNAL,I18NCode for Internal,Internal,Internal,Yes
+I18N_INVALID_CREDENTIALS,I18NCode for Invalid Credentials,Invalid credentials,Invalid credentials,Yes
+I18N_INVALID_OR_EXPIRED_TOKEN,I18NCode for Invalid Or Expired Token,Invalid or Expired token,Invalid or Expired token,Yes
+I18N_INVALID_TOKEN_,I18NCode for Invalid Token, <strong>Invalid Token!</strong> The token provided is invalid., <strong>Invalid Token!</strong> The token provided is invalid.,Yes
+I18N_INVALID_USER_DATA,I18NCode for Invalid User Data,Invalid user data,Invalid user data,Yes
+I18N_IS_REPORTING2YOU_GDPR_COMPLIANT,I18NCode for Is Reporting2You GDPR Compliant,Is Reporting2you GDPR compliant,Is Reporting2you GDPR compliant,Yes
+I18N_IT_WAS_NOT_POSSIBLE_TO_LOAD_THE_MEMBERS,I18NCode for It was not possible to load the members,It was not possible to load the members,It was not possible to load the members,Yes
+I18N_JANUARY,I18NCode for January,January,January,Yes
+I18N_JOIN_DATE,"I18NCode for Join Date
+",Join Date,Join Date,Yes
+I18N_JULY,I18NCode for July,July,July,Yes
+I18N_JUNE,I18NCode for June,June,June,Yes
+I18N_KEY_METRICS,I18NCode for Key metrics,Key metrics,Key metrics,Yes
+I18N_KINDLY_SUGGEST_THAT,I18NCode for Kindly suggest that,Kindly suggest that,Kindly suggest that,Yes
+I18N_KPI,I18NCode for KPI's,Kpi's,Kpi's,Yes
+I18N_KPI_CORRELATION,I18NCode for KPI Correlation,Kpi Correlation,Kpi Correlation,Yes
+I18N_KPI_EVOLUTION,I18NCode for Kpi Evolution,KPI Evolution,KPI Evolution,Yes
+I18N_KPI_GAME,I18NCode for Kpi Game,Kpi Game,Kpi Game,Yes
+I18N_KPI_GAME_BNI,I18NCode for KPI Game BNI,KPI Game KPIS,KPI Game KPIS,Yes
+I18N_KPI_SINGULAR,I18NCode for Kpi in singular,Kpi,Kpi,Yes
+I18N_L,I18NCode for L,L,L,Yes
+I18N_LANGUAGE,I18NCode for the language name 	,Language,Language,Yes
+I18N_LANGUAGE_DESCRIPTION,I18NCode for language description,Description,Description,Yes
+I18N_LANGUAGES,I18NCodes for Languages,Languages,Languages,Yes
+I18N_LAST,I18NCode for Last,Last,Last,Yes
+I18N_LAST_6_MONTHS,I18NCode for Last 6 Months,Last 6 Months,Last 6 Months,Yes
+I18N_LAST_CLOSED_MONTH,I18NCode for Last Closed Month,Last Closed Month,Last Closed Month,Yes
+I18N_LAST_MEMBERS_IN_TRAFFIC_LIGHTS,I18NCode for Last Members In Traffic Lights,Last Members in Traffic Lights,Last Members in Traffic Lights,Yes
+I18N_LAST_MONTH,I18CodeN for last month,Last month:,Last month:,Yes
+I18N_LAST_NAME,I18NCode for Last Name label,Last Name,Last Name,Yes
+I18N_LAST_NEW_MEMBER,I18NCode for Last New Member,Last New Member,Last New Member,Yes
+I18N_LAST_SPONSORSHIP,I18NCode for Last Sponsorship,Last Sponsorship,Last Sponsorship,Yes
+I18N_LAST_SUBMITED_PALMS,I18NCode for Last submitted PALMS:,Last submitted PALMS,Last submitted PALMS,Yes
+I18N_LAST_UPDATE,I18NCode for Last Update,Last Update,Last Update,Yes
+I18N_LAST12MONTS,I18NCode for Last12Months,Last 12 Months ::,Last 12 Months ::,Yes
+I18N_LASTMONTH_MENU,I18NCode for Last Month Side Bar Menu,Last Month,Last Month,Yes
+I18N_LATE,I18NCode for Late,Late,Late,Yes
+I18N_LATEST_REPORTS_RECEIVED,Latest Reports Received,Latest Reports Received,Latest Reports Received,Yes
+I18N_LAUNCH,I18NCode for Launch,Launch,Launch,Yes
+I18N_LAUNCH_DATE,I18NCode for Launch Date,Launch Date,Launch Date,Yes
+I18N_LEADERSHIP_TEAM,I18NCode for Leadership Team,Leadership Team,Leadership Team,Yes
+I18N_LEADERSHIP_TEAM_TRAFFIC_LIGHTS,"I18NCode for ""Leadership Team (LT) Traffic Lights""",Leadership Team (LT) Traffic Lights,Leadership Team (LT) Traffic Lights,Yes
+I18N_LEAVING,I18NCode for Exiting,Leaving,Leaving,Yes
+I18N_LENGTH_YEARS,I18NCode for Length(Years),Length (Years),Length (Years),Yes
+I18N_LEVEL,I18NCode for Level,Level,Level,Yes
+I18N_LOADING,I18NCode for Loading,Loading...,Loading...,Yes
+I18N_LOADING_WARNING_MESSAGE,I18NCode for Loading Warning Message,"Attention!!! This procedure may take a considerable amount of time depending on the number of members, chapters and time interval.","Attention!!! This procedure may take a considerable amount of time depending on the number of members, chapters and time interval.",Yes
+I18N_LOCATION___DETAILS,I18NCode for Location & Details,Location & details,Location & details,Yes
+I18N_LOG_IN_TO_REPORTING2YOU,"I18NCode for Log In to Reporting2You
+",Log In to Reporting2You,Log In to Reporting2You,Yes
+I18N_LOG_OUT,I18NCode for Log Out,Logout,Logout,Yes
+I18N_LOGIN_FAILED,I18NCode for Login Failed,Login Failed,Login Failed,Yes
+I18N_LOGIN_WITH_EMAIL,"I18NCode for Login with email
+",Login with email,Login with email,Yes
+I18N_LT,I18NCode for LT,LT,LT,Yes
+I18N_LT_SUSPEND_MEMBERSHIP,I18NCode for LT Suspend Membership,LT Suspend membership,LT Suspend membership,Yes
+I18N_LT_SUSPEND_MEMBERSHIP_LABEL,I18NCode for LT Suspend Membership Label,Activate LT membership suspension,Activate LT membership suspension,Yes
+I18N_LT_TRAFFIC_LIGHTS_SCORING_METHOD,"I18NCode for ""LT Traffic Lights Scoring Method""",LT Traffic Lights Scoring Method,LT Traffic Lights Scoring Method,Yes
+I18N_M,I18NCode for M,M,M,Yes
+I18N_MANAGE,I18NCode for manage.,Manage,Manage,Yes
+I18N_MANAGE_CHAPTER_GOALS,I18NCode for Manage Chapter Goals,Manage Chapter Goals,Manage Chapter Goals,Yes
+I18N_MANAGE_COUTRY_GOALS,I18NCode for Manage Coutry Goals,Manage Country Goals,Manage Country Goals,Yes
+I18N_MANAGE_DIRECTOR_GOALS,I18NCode for Manage Director Goals,Manage Director Goal,Manage Director Goal,Yes
+I18N_MANAGE_MULTIREGION_GOALS,I18NCode for Manage MultiRegion Goals,Manage Multiregion Goals,Manage Multiregion Goals,Yes
+I18N_MANAGE_REGION_GOALS,I18NCode for Manage region goals,Manage Region Goals,Manage Region Goals,Yes
+I18N_MANAGE_TASKS,I18NCode for Manage Tasks Menu,Manage your tasks,Manage your tasks,Yes
+I18N_MANAGE_TEAM_GOALS,,Manage Team Goals,Manage Team Goals,Yes
+I18N_MANAGE_YOUR_GOAL,I18NCode to Manage your goal,Manage your Goal!,Manage your Goal!,Yes
+I18N_MARCH,I18NCode for March,March,March,Yes
+I18N_MARKET,I18NCode for Market,Market,Market,Yes
+I18N_MAX,I18NCode represent Max:,Max:,Max:,Yes
+I18N_MAXIMUM,I18NCode for Maximum,File too large. The maximum size is 5MB.,File too large. The maximum size is 5MB.,Yes
+I18N_MAY,I18NCode for May,May,May,Yes
+I18N_MB,I18NCode for MB,MB,MB,Yes
+I18N_MC,I18NCode for MC,MC,MC,Yes
+I18N_MCKPI_DESCRIPTION,I18NCode for MCKPI Description,"This is a  <strong>monthly report</strong> that usually is sent to each Leadership Team every 3rd working day of the month.<br/>
+
+It is a fantastic report that has two pages, in the first one you can see the Leadership Team members and the major chapter Key Performance Indicator for 12 and 6 months and at the second page, you will find the previous month Chapter Notable Networkers for Referrals, Business Given, One-to-Ones and Visitors.
+
+It really saves time to LT and, if they print the report, they can use it at the Checkin Table...","This is a  <strong>monthly report</strong> that usually is sent to each Leadership Team every 3rd working day of the month.<br/>
+
+It is a fantastic report that has two pages, in the first one you can see the Leadership Team members and the major chapter Key Performance Indicator for 12 and 6 months and at the second page, you will find the previous month Chapter Notable Networkers for Referrals, Business Given, One-to-Ones and Visitors.
+
+It really saves time to LT and, if they print the report, they can use it at the Checkin Table...",Yes
+I18N_MCKPI_MONTHLY_CHAPTER_KEY_PERFORMANCE_INDICATORS_REPORT,I18NCode for MCKPI - Monthly Chapter Key Performance Indicators Report,MCKPI - Monthly Chapter Key Performance Indicators Report,MCKPI - Monthly Chapter Key Performance Indicators Report,Yes
+I18N_MCMTE_DESCRIPTION,I18NCode for MCMTE Description,"This is a <strong>monthly report</strong> that usually is sent to LT's and DC's (the ED must set who receives it, LT, DC...) every 3rd working day of the month.<br/>
+
+The goal is to give LT's and Directors an update regarding their members performance evolution and also the ability to understand Mentors success.","This is a <strong>monthly report</strong> that usually is sent to LT's and DC's (the ED must set who receives it, LT, DC...) every 3rd working day of the month.<br/>
+
+The goal is to give LT's and Directors an update regarding their members performance evolution and also the ability to understand Mentors success.",Yes
+I18N_MCMTE_MONTHLY_MEMBER_TRAFFIC_LIGHTS_EVOLUTION_,I18NCode for MCMTE Monthly Member Traffic Lights Evolution ,MCMTE - Monthly Member Traffic Lights Evolution,MCMTE - Monthly Member Traffic Lights Evolution,Yes
+I18N_MCMTL__MONTHLY_MEMBER_TRAFFIC_LIGHTS_REPORT,I18NCode for MCMTL - Monthly Member Traffic Lights Report,MCMTL - Monthly Member Traffic Lights Report,MCMTL - Monthly Member Traffic Lights Report,Yes
+I18N_MCMTL_DESCRIPTION,I18NCode for MCMTL Description,"This is a <strong>monthly report</strong> that usually is sent each member (the ED decides who receives it, LT, DC...) every 3rd working day of the month.<br/>
+
+The goal is to give each member enough information to understand where he needs to invest time in order to work is own VCP. If he opens the file with Adobe Acrobat Reader he can click his name and the system will tell him how many referrals, trainings, one-to-one, visitors, testimonials he needs to do to reach next color and Green... try it! It is really great.","This is a <strong>monthly report</strong> that usually is sent each member (the ED decides who receives it, LT, DC...) every 3rd working day of the month.<br/>
+
+The goal is to give each member enough information to understand where he needs to invest time in order to work is own VCP. If he opens the file with Adobe Acrobat Reader he can click his name and the system will tell him how many referrals, trainings, one-to-one, visitors, testimonials he needs to do to reach next color and Green... try it! It is really great.",Yes
+I18N_MCP_DESCRIPTION,I18NCode for Description,"This is a <strong>monthly report</strong> that usually is sent to the Leadership Team every 3rd working day of the month.<br/>
+
+The goal is to give each Leadership and DC a tool to look for the principal Key Success Factor to fix (Power of One), because in this report it is so easy to understand the chapter evolution on each and every KSF and other KPI's","This is a <strong>monthly report</strong> that usually is sent to the Leadership Team every 3rd working day of the month.<br/>
+
+The goal is to give each Leadership and DC a tool to look for the principal Key Success Factor to fix (Power of One), because in this report it is so easy to understand the chapter evolution on each and every KSF and other KPI's",Yes
+I18N_MCP_MONTHLY_CHAPTER_PERFORMANCE_REPORT,I18NCode for MCP Monthly Chapter Performance Report,MCP - Monthly Chapter Performance Report,MCP - Monthly Chapter Performance Report,Yes
+I18N_MDAA_DESCRIPTION,I18NCode for MDAA Description,"This is a <strong>monthly report</strong> that usually is sent to each AD every 3rd working day of the month.
+
+The goal is to give, in only one report, the list of next 3 month renewals and identify on that list the members in member traffic lights RED or GRAY, and also complete list of what happened last month in the region (late, dropped , new and renewed members, members with 3 or more absences, members with 3 or more substitutions, PALMS monitoring and Directors Chapter Visits)","This is a <strong>monthly report</strong> that usually is sent to each AD every 3rd working day of the month.
+
+The goal is to give, in only one report, the list of next 3 month renewals and identify on that list the members in member traffic lights RED or GRAY, and also complete list of what happened last month in the region (late, dropped , new and renewed members, members with 3 or more absences, members with 3 or more substitutions, PALMS monitoring and Directors Chapter Visits)",Yes
+I18N_MDAA_MONTHLY_AREA_DIRECTOR_CONSULTANT_ALERT_REPORT,I18NCode for MDAA  Monthly Area Director Consultant Alert Report,MDAA - Monthly Area Director Consultant Alert Report,MDAA - Monthly Area Director Consultant Alert Report,Yes
+I18N_MDAP_DESCRIPTION,I18NCode for MDAP Description,"This is a <strong>monthly report</strong> that usually is sent to each AD every 3rd working day of the month.<br/>
+
+The goal is to give the AD a tool to look understand his performance and evolution on each and every KSF and other KPI's","This is a <strong>monthly report</strong> that usually is sent to each AD every 3rd working day of the month.<br/>
+
+The goal is to give the AD a tool to look understand his performance and evolution on each and every KSF and other KPI's",Yes
+I18N_MDAP_MONTHLY_AREA_DIRECTOR_CONSULTANT_PERFORMANCE_REPORT,I18NCode for MDAP Monthly Area Director Consultant Performance Report,MDAP - Monthly Area Director Consultant Performance Report,MDAP - Monthly Area Director Consultant Performance Report,Yes
+I18N_MDCA_DESCRIPTION,I18NCode for MDCA,"This is a <strong>monthly report</strong> that usually is sent to each DC every 3rd working day of the month.<br/>
+
+The goal is to give, in only one report, the list of next 3 month renewals and identify on that list the members in member traffic lights RED or GRAY, and also complete list of what happened last month in the region (late, dropped , new and renewed members, members with 3 or more absences, members with 3 or more substitutions, PALMS monitoring and Directors Chapter Visits)","This is a <strong>monthly report</strong> that usually is sent to each DC every 3rd working day of the month.<br/>
+
+The goal is to give, in only one report, the list of next 3 month renewals and identify on that list the members in member traffic lights RED or GRAY, and also complete list of what happened last month in the region (late, dropped , new and renewed members, members with 3 or more absences, members with 3 or more substitutions, PALMS monitoring and Directors Chapter Visits)",Yes
+I18N_MDCA_MONTHLY_DIRECTOR_CONSULTANT_ALERT_REPORT,I18NCode for MDCA  Monthly Director Consultant Alert Report,MDCA - Monthly Director Consultant Alert Report,MDCA - Monthly Director Consultant Alert Report,Yes
+I18N_MDCP_DESCRIPTION,I18NCode for MDCP Description,"This is a <strong>monthly report</strong> that usually is sent to each DC every 3rd working day of the month.<br/>
+
+The goal is to give the DC a tool to look understand his performance and evolution on each and every KSF and other KPI's","This is a <strong>monthly report</strong> that usually is sent to each DC every 3rd working day of the month.<br/>
+
+The goal is to give the DC a tool to look understand his performance and evolution on each and every KSF and other KPI's",Yes
+I18N_MDCP_MONTHLY_DIRECTOR_CONSULTANT_PERFORMANCE_REPORT,I18NCode for MDCP Monthly Director Consultant Performance Report,MDCP - Monthly Director Consultant Performance Report,MDCP - Monthly Director Consultant Performance Report,Yes
+I18N_ME,I18NCode for Me,Me,Me,Yes
+I18N_MECHANISMS,I18NCode for Mechanisms,Mechanisms,Mechanisms,Yes
+I18N_MEETING,I18NCode for Meeting,Meeting,Meeting,Yes
+I18N_MEGA_REGION,I18NCode for Mega Region,Mega Region,Mega Region,Yes
+I18N_MEM,I18NCode for MEM,MEM,MEM,Yes
+I18N_MEMBER,I18NCode for Member,Member,Member,Yes
+I18N_MEMBER_ANALYSIS,I18NCode for Member Analysis,Member Analysis,Member Analysis,Yes
+I18N_MEMBER_FLOW,I18NCode for Member Flow,Member Flow,Member Flow,Yes
+I18N_MEMBER_MANAGEMENT,I18NCode for Member Management,Member Management,Member Management,Yes
+I18N_MEMBER_MECHANISMS,I18NCode for Member Mechanisms,Member Mechanisms,Member Mechanisms,Yes
+I18N_MEMBER_SUPPORT_TASKS,I18NCode for Member Support Tasks,LT or MC Member Support Tasks,LT or MC Member Support Tasks,Yes
+I18N_MEMBERS,I18NCode for Members,Members,Members,Yes
+I18N_MEMBERS___CHAPTERS,I18NCode for Members & Chapters,Chapters and Members,Chapters and Members,Yes
+I18N_MEMBERS_100_POINTS,I18NCode for Members 100 Points Page Title,100 Points,100 Points,Yes
+I18N_MEMBERS_CHAPTER,I18NCode for members/chapter,members/chapter,members/chapter,Yes
+I18N_MEMBERS_COUNT,I18NCode for Members Count,Members count,Members count,Yes
+I18N_MEMBERS_FALLING_IN_TL_FOR,"I18NCode for ""Members falling in TL for""",Members falling in TL for,Members falling in TL for,Yes
+I18N_MEMBERS_IN_TRAFFIC_LIGHTS,I18NCode for Members in Traffic Lights,Members in Traffic Lights,Members in Traffic Lights,Yes
+I18N_MEMBERS_LIST,I18NCode for Members List,Members List,Members List,Yes
+I18N_MEMBERS_PROFESSION,I18NCode for Members Profession,Member´s Profession,Member´s Profession,Yes
+I18N_MEMBERS_SATISFACTION,I18NCode for Members Satisfaction,Members Satisfaction,Members Satisfaction,Yes
+I18N_MEMBERS_TOTAL,I18NCode for Members Total,Total Members,Total Members,Yes
+I18N_MEMBERS_USERS,I18NCode for Members & Users,Members/Users,Members/Users,Yes
+I18N_MEMBERS_WITH_LESS_THEN,"I18NCode for ""Members with less then""",Members with less then,Members with less then,Yes
+I18N_MEMBERSHIP,I18NCode for Membership,Membership,Membership,Yes
+I18N_MEMBERSHIP_AGE,I18NCode for MemberShip Age,MemberShip Age,MemberShip Age,Yes
+I18N_MEMBERSHIP_COMMITTEE,I18NCode for Membership Committee,Membership Committee,Membership Committee,Yes
+I18N_MEMBERSHIP_LENGTH,I18NCode for MemberShip Length,Membership Length,Membership Length,Yes
+I18N_MENU,I18NCode for Menu,Menu,Menu,Yes
+I18N_MENU_OPTIONS,I18NCode for Menu Options ,Menu Options,Menu Options,Yes
+I18N_MENUS,I18NCode for Menus,Menus,Menus,Yes
+I18N_MESSAGE_BODY,I18NCode for Message Body,Message Body,Message Body,Yes
+I18N_MESSAGE_NO_CHAPTER_GOAL,I18NCode for Message No Chapter Goal,Establishing the Chapter Objetive is a fundamental step towards Success.,Establishing the Chapter Objetive is a fundamental step towards Success.,Yes
+I18N_MESSAGE_NO_COUNTRY_GOAL,I18NCode for Message No Country Goal,Establishing the Country's Objective is a fundamental step towards Success.,Establishing the Country's Objective is a fundamental step towards Success.,Yes
+I18N_MESSAGE_NO_DIRECTOR_GOAL,I18NCode for Message No Director Goal,Establishing the Director's Objetive is a fundamental step towards Success.,Establishing the Director's Objetive is a fundamental step towards Success.,Yes
+I18N_MESSAGE_NO_GROUP_MECHANISMS,I18NCode for Message No Group Mechanisms,Establishing Chapter Mechanisms is a fundamental step towards Success.,Establishing Chapter Mechanisms is a fundamental step towards Success.,Yes
+I18N_MESSAGE_NO_MEMBER_MECHANISMS,I18NCode for Message No Member Mechanisms,Establishing Member Mechanisms is a fundamental step towards Success.,Establishing Member Mechanisms is a fundamental step towards Success.,Yes
+I18N_MESSAGE_NO_MULTI_REGION_GOAL,I18NCode for Message No Multi Region Goal,Establishing the Multi Region Objetive is a fundamental step towards Success.,Establishing the Multi Region Objetive is a fundamental step towards Success.,Yes
+I18N_MESSAGE_NO_REGION_GOAL,I18NCode for Message No Region Goal,Establishing the Region's Objetive is a fundamental step towards Success.,Establishing the Region's Objetive is a fundamental step towards Success.,Yes
+I18N_MESSAGE_TO_BROADCAST,I18NCode for Message to broadcast,Message to broadcast,Message to broadcast,Yes
+I18N_MESSAGES,I18NCode for Messages Chat,Messages,Messages,Yes
+I18N_METRIC_PERFOMANCE,I18NCode for Metric Perfomance,Performance Metrics,Performance Metrics,Yes
+I18N_MIN,I18NCode represent Min:,Min:,Min:,Yes
+I18N_MIN_MEMBERSHIP_AGE,I18NCode for Min Membership Age,Min Membership Age,Min Membership Age,Yes
+I18N_MINUTES,I18NCode for Minutes,minutes,minutes,Yes
+I18N_MODULE_DESCRIPTION,I18NCode for module description,Description,Description,Yes
+I18N_MODULE_NAME,I18NCode for the module name type,Module ,Module ,Yes
+I18N_MODULES,I18NCodes for Modules,Modules,Modules,Yes
+I18N_MONITOR_MSP,I18NCode for Monitor MSP,Monitor MSP,Monitor MSP,Yes
+I18N_MONITOR_MSP_LABEL,I18NCode for Monitor MSP Label,Enable MSP monitoring,Enable MSP monitoring,Yes
+I18N_MONITOR_SUBSTITUTIONS,I18NCode for Monitor Substitutions,Monitor Substitutions,Monitor Substitutions,Yes
+I18N_MONITOR_SUBSTITUTIONS_LABEL,I18NCode Monitor Substitutions Label,Enable monitoring substitutions,Enable monitoring substitutions,Yes
+I18N_MONTH_BY_MONTH,I18NCode for Month by month,Month by month,Month by month,Yes
+I18N_MONTH_DIFFERENCE,I18NCode for Month difference, Months from the affiliate's entry until their exit, Months from the affiliate's entry until their exit,Yes
+I18N_MONTH_MEMBER_6AM,I18NCode for /month/member (6m),/month/member (6m),/month/member (6m),Yes
+I18N_MONTHLY_ALERT_REPORT_SETTINGS,I18NCode for Monthly Alert Report Settings,Monthly Alert Report Settings,Monthly Alert Report Settings,Yes
+I18N_MONTHS,I18NCode for Months,Months,Months,Yes
+I18N_MONTHS_100_POINTS,I18NCode for Months 100 Points,Months 100 Points,Months 100 Points,Yes
+I18N_MONTHS_BEFORE_RENEWAL,"I18NCode for ""Months Before Renewal""",Months before renewal,Months before renewal,Yes
+I18N_MONTHS_IN_BNI,I18NCode for Months in BNI,Months in BNI,Months in BNI,Yes
+I18N_MRA_DESCRIPTION,I18NCode for MRA Description,"This is a <strong>monthly report</strong> that usually is sent to the Executive Director every 3rd working day of the month.<br/>
+
+The goal is to give, in only one report, the list of next 3 month renewals and identify on that list the members in member traffic lights RED or GRAY, and also complete list of what happened last month in the region (late, dropped , new and renewed members, members with 3 or more absences, members with 3 or more substitutions, PALMS monitoring and Directors Chapter Visits)","This is a <strong>monthly report</strong> that usually is sent to the Executive Director every 3rd working day of the month.<br/>
+
+The goal is to give, in only one report, the list of next 3 month renewals and identify on that list the members in member traffic lights RED or GRAY, and also complete list of what happened last month in the region (late, dropped , new and renewed members, members with 3 or more absences, members with 3 or more substitutions, PALMS monitoring and Directors Chapter Visits)",Yes
+I18N_MRA_MONTHLY_ALERT_REPORT,I18NCode for MRA Monthly Alert Report,MRA - Monthly Alert Report,MRA - Monthly Alert Report,Yes
+I18N_MRCTL_DESCRIPTION,I18NCode for MRCTL Description,"This is a <strong>monthly report</strong> that usually is sent to each DC every 3rd working day of the month.<br/>
+
+This a Philippe Blin idea (thank you Philippe) and it is a Traffic Lights for Director Consultants. It is based on DC Chapters Traffic Lights, it is a pretty good tool to understand Director Consultant Performance.","This is a <strong>monthly report</strong> that usually is sent to each DC every 3rd working day of the month.<br/>
+
+This a Philippe Blin idea (thank you Philippe) and it is a Traffic Lights for Director Consultants. It is based on DC Chapters Traffic Lights, it is a pretty good tool to understand Director Consultant Performance.",Yes
+I18N_MRCTL_MONTHLY_REGIONAL_DC_TRAFFIC_LIGTHS_REPORT,I18NCode for MRCTL - Monthly Regional DC Traffic Ligths Report,MRCTL - Monthly Regional DC Traffic Ligths Report,MRCTL - Monthly Regional DC Traffic Ligths Report,Yes
+I18N_MRGTL_DESCRIPTION,I18NCode for MRGTL Description,"This is a <strong>monthly report</strong> that usually is sent to LT's, DC's, AD's and ED (the ED must set who receives it, LT, DC...) every 3rd working day of the month.<br/>
+
+The goal is to give LT's and Directors an update regarding their chapter performance and also the ability to compare with all other chapters.","This is a <strong>monthly report</strong> that usually is sent to LT's, DC's, AD's and ED (the ED must set who receives it, LT, DC...) every 3rd working day of the month.<br/>
+
+The goal is to give LT's and Directors an update regarding their chapter performance and also the ability to compare with all other chapters.",Yes
+I18N_MRGTL_MONTHLY_REGIONAL_CHAPTER_TRAFFIC_LIGHTS,I18NCode for MRGTL Monthly Regional Chapter Traffic Lights,MRGTL - Monthly Regional Chapter Traffic Lights,MRGTL - Monthly Regional Chapter Traffic Lights,Yes
+I18N_MRP_DESCRIPTION,I18NCode for MRP,"This is a <strong>monthly report</strong> that usually is sent to the Executive Director every 3rd working day of the month.<br/>
+
+The goal is to give the ED a tool to look understand his regional performance and evolution on each and every KSF and other KPI's","This is a <strong>monthly report</strong> that usually is sent to the Executive Director every 3rd working day of the month.<br/>
+
+The goal is to give the ED a tool to look understand his regional performance and evolution on each and every KSF and other KPI's",Yes
+I18N_MRP_MONTHLY_REGIONAL_PERFORMANCE_REPORT,I18NCode for MRP Monthly Regional Performance Report,MRP - Monthly Regional Performance Report,MRP - Monthly Regional Performance Report,Yes
+I18N_MSP,I18NCode for MSP,MSP,MSP,Yes
+I18N_MSP_MONITOR_SETTINGS,I18NCode for MSP Monitor Settings,MSP Monitor Settings,MSP Monitor Settings,Yes
+I18N_MSP_ONLY,I18NCode for MSP Only,MSP Only,MSP Only,Yes
+I18N_MSP_ONLY_LABEL,I18NCode for MSP Only Label,Activate MSP Only,Activate MSP Only,Yes
+I18N_MULTI_AVG,I18NCode for Multi AVG,Multi avg,Multi avg,Yes
+I18N_MULTI_REGION,I18NCode for Dropdown ddl,Multi Region,Multi Region,Yes
+I18N_MULTI_REGION_CANNOT_EXCEED_50_CHARACTERS,I18NCode for Multi Region cannot exceed 50 characters,Multi region cannot exceed 50 characteres,Multi region cannot exceed 50 characteres,Yes
+I18N_MULTI_REGION_GOAL_EDIT,I18NCode for Multi REGION GOAL EDIT,Edit Multi Region Goal,Edit Multi Region Goal,Yes
+I18N_MULTI_REGION_GOAL_MENU,I18NCode for Multi Region Goal Menu,Multi Region,Multi Region,Yes
+I18N_MULTI_REGION_IS_REQUIRED,I18Ncode for Multi Region is required,Multi region is required,Multi region is required,Yes
+I18N_MULTIPLE_RESPONSES,"I18NCode for Multiple Responses
+",Multiple responses,Multiple responses,Yes
+I18N_MULTIPURPOSE,Multipurpose,Multipurpose,Multipurpose,Yes
+I18N_MUST_REPEAT_TRAINNING_EVERY,I18NCode for Must Repeat Trainning Every,Must Repeat Trainning Every,Must Repeat Trainning Every,Yes
+I18N_MY_CHAPTER_,I18NCode for My Chapter,My chapter,My chapter,Yes
+I18N_MY_LAST_CONTRIBUTIONS,My last contributions,My last contributions,My last contributions,Yes
+I18N_MY_LAST_CONTRIBUTIONS_PDF,I18NCode for My Last Contributions Pdf,My Last Contributions PDF,My Last Contributions PDF,Yes
+I18N_MY_LAST_RECEIVED_REPORTS,I18NCode for My Last Received Reports,Last Received Reports,Last Received Reports,Yes
+I18N_MY_PROFILE,I18NCode for My Profile,My profile,My profile,Yes
+I18N_NAME,I18NCode for Name,Name,Name,Yes
+I18N_NAME_IS_REQUIRED,I18NCode for Name Is Required,Name is a required field,Name is a required field,Yes
+I18N_ND,I18NCode for ND,ND,ND,Yes
+I18N_NET_GROWTH_IN_MEMBERSHIP,I18NCode for NET GROWTH IN_MEMBERSHIP (NEW CHAPTERS),Net Growth in Membership,Net Growth in Membership,Yes
+I18N_NET_GROWTH_IN_MEMBERSHIP2,I18NCode for Net Growth in Membership (Fill Chapters),Net Growth in Membership,Net Growth in Membership,Yes
+I18N_NET_NEW_CHAPTERS,I18NCode for Net New Chapters,Net New Chapters,Net New Chapters,Yes
+I18N_NEW,I18NCode from New,New,New,Yes
+I18N_NEW_ABREVIATION,I18NCode for New. Abreviation,New,New,Yes
+I18N_NEW_ACTIVATION_EMAIL_HAS_BEEN_SENT,I18NCode for New Activation Email Has Been Sent,New activation has been sent for your email,New activation has been sent for your email,Yes
+I18N_NEW_AMBASSADORS_LAST_6_MONTHS,I18NCode for New Ambassadors (last 6 months),New Ambassador,New Ambassador,Yes
+I18N_NEW_BROADCAST,I18NCode for New Broadcast,New broadcast,New broadcast,Yes
+I18N_NEW_CHAPTERS,I18NCode for New Chapters,New Chapters,New Chapters,Yes
+I18N_NEW_CHAT,I18NCode for New Chat,New chat,New chat,Yes
+I18N_NEW_DC_LAST_6_MONTHS,I18NCode for New DC (last 6 months),New DC,New DC,Yes
+I18N_NEW_MEMBER_ACTIVE_CHAPTERS,I18NCode for New Member Active Chapters,New Members / Active Chapters,New Members / Active Chapters,Yes
+I18N_NEW_MEMBER_CORE_CHAPTERS,I18NCode for New Member Core Chapters,New Members / Core Chapters,New Members / Core Chapters,Yes
+I18N_NEW_MEMBERS_,I18NCode for New Members,New Members,New Members,Yes
+I18N_NEW_MEMBERS_IS_REQUIRED,I18NCode for New members is required,New members is required,New members is required,Yes
+I18N_NEW_MEMBERS_THE_REGION,I18NCode for New Members The Region,New Members,New Members,Yes
+I18N_NEW_MESSAGES,I18NCode for New Messages,New messages,New messages,Yes
+I18N_NEW_SINGULAR,I18NCode for New word in singular,New,New,Yes
+I18N_NO,I18NCode for No,No,No,Yes
+I18N_NO_CHAPTER_GOAL,I18NCode for No Chapter Goal,No Chapter Goal defined.,No Chapter Goal defined.,Yes
+I18N_NO_CHATTING,I18NCode for No chatting,No Chatting,No Chatting,Yes
+I18N_NO_CONTACT_SPHERE,I18NCode for No Contact Sphere,Contact Spheres not found,Contact Spheres not found,Yes
+I18N_NO_COUNTRY_GOAL,I18NCode for No Country Goal,No Country Goal defined.,No Country Goal defined.,Yes
+I18N_NO_DATA_100_POINTS,I18NCode for No Data 100 Points,This month there are no members with 100 points,This month there are no members with 100 points,Yes
+I18N_NO_DATA_FOR_NO_NEW_MEMBERS,I18NCode for No Data for No New Members,No Data for No New Members,No Data for No New Members,Yes
+I18N_NO_DATA_TO_SHOW,"I18NCode for message ""No data to show""",No data is available,No data is available,Yes
+I18N_NO_DIRECTOR_GOAL,I18NCode for No Director Goal,No Diretor Goal defined.,No Diretor Goal defined.,Yes
+I18N_NO_DIRECTOR_TO_SHOW,I18NCode for No Director to show,Only available if you have more than one Area Director!,Only available if you have more than one Area Director!,Yes
+I18N_NO_GAMES_TO_SHOW,I18NCode for No Games To Show,No games to show,No games to show,Yes
+I18N_NO_GROUP_MECHANISMS,I18NCode for No Group Mechanisms,No Chapter Mechanisms defined.,No Chapter Mechanisms defined.,Yes
+I18N_NO_GUESTS,I18NCode for No guests,No Guests,No Guests,Yes
+I18N_NO_GUESTS_IN_THE_LAST_12_MONTHS,I18NCode for No guests in the last 12 months,No Guests in the Last 12 Months,No Guests in the Last 12 Months,Yes
+I18N_NO_IMAGE_SELECTED,I18NCode for No image selected,No image selected,No image selected,Yes
+I18N_NO_KPI_ON_GAME,I18NCode for No KPI on Game,This Game has no KPI's to show.,This Game has no KPI's to show.,Yes
+I18N_NO_MECANISM_AVAILABLE,I18NCode for No Mecanism Available,No Mecanisms Available,No Mecanisms Available,Yes
+I18N_NO_MEMBER_MECHANISMS,I18NCode for No Member Mechanisms,No Member Mechanisms defined.,No Member Mechanisms defined.,Yes
+I18N_NO_MEMBERS_AVAILABLE,"I18NCode for No members available
+",No Members Available,No Members Available,Yes
+I18N_NO_MEMBERS_FOUND,I18NCode for No Members Found,No members found.,No members found.,Yes
+I18N_NO_MULTI_REGION_GOAL,I18NCode for Multi Region Goal,No Multi Region Goal defined.,No Multi Region Goal defined.,Yes
+I18N_NO_ONE_TO_ONES,I18NCode for No One To Ones,no one to ones,no one to ones,Yes
+I18N_NO_ONE_TO_ONES_IN_THE_LAST_4_WEEKS,I18NCode for No One To Ones in the last 4 weeks,No One To Ones in the last 4 weeks,No One To Ones in the last 4 weeks,Yes
+I18N_NO_ONE_TO_ONES_RECEIVED,I18NCode for No One-To-Ones received,No One-To-Ones received,No One-To-Ones received,Yes
+I18N_NO_RECEIVED_REFERRALS_,I18NCode for NO RECEIVED REFERRALS ,No received referrals,No received referrals,Yes
+I18N_NO_REFERRALS,I18NCode for No Referrals,no referrals,no referrals,Yes
+I18N_NO_REFERRALS_GIVEN_,I18NCode for NO REFERRALS Given ,No referrals given,No referrals given,Yes
+I18N_NO_REFERRALS_RECEIVED,I18NCode for No Referrals Received,No referrals received,No referrals received,Yes
+I18N_NO_REFERRALS_RECEIVED_IN_THE_LAST_8_WEEKS,I18NCode for No Referrals Received in the last 8 weeks,No Referrals Received in the Last 8 Weeks,No Referrals Received in the Last 8 Weeks,Yes
+I18N_NO_REGION_GOAL,I18NCode for No Region Goal,No Region Goal defined.,No Region Goal defined.,Yes
+I18N_NO_RESULTS,I18NCode for No results,No results,No results,Yes
+I18N_NO_RESULTS_FOUND,I18NCode for No Results found,No results found,No results found,Yes
+I18N_NO_RESULTS_FOUND_FOR,"I18NCode for No results found for
+",No results found for,No results found for,Yes
+I18N_NO_SCHEDULED_OPERATIONS,I18NCode for No Scheduled Operations in Region Schedules Page,No Scheduled Operations,No Scheduled Operations,Yes
+I18N_NO_TAKS_EMPTY_DATA,I18NCode for No Taks Empty Data,No tasks ,No tasks ,Yes
+I18N_NO_TEAM_MEMBER,I18NCode for No Team Member,No members in the team,No members in the team,Yes
+I18N_NO_TEAMS_TO_SHOW,I18NCode for No Teams to show,This Game has no teams to show.,This Game has no teams to show.,Yes
+I18N_NO_TRAINNING_OR_CEU_ON_LAST,I18NCode for No Trainning or CEU On Last,No Trainning or CEU On Last,No Trainning or CEU On Last,Yes
+I18N_NO_USERS_FOUND,I18NCode for No users found,No users found,No users found,Yes
+I18N_NOMEMBERSONTHISMONTHFORRENEWS,I18NCode for NoMembersOnThisMonthforRenews,No members on this month for renew,No members on this month for renew,Yes
+I18N_NOT_GREEN_LABEL_INFO,I18NCode for Not Green Label Info,new members that did not reach Green,new members that did not reach Green,Yes
+I18N_NOT_GREENS,I18NCode for Not Greens,Not Greens,Not Greens,Yes
+I18N_NOT_PERMITED_FILE,I18NCode for Not permited file,"File type not allowed. Use only JPEG, PNG, or GIF.","File type not allowed. Use only JPEG, PNG, or GIF.",Yes
+I18N_NOT_REGISTERED_YET_,I18NCode for Not Registered yet?,Not Registered yet?,Not Registered yet?,Yes
+I18N_NOT_TO_GREEN_LABEL_INFO,I18NCode for Not To Green Label Info,membership length from members that did not reach Green yet,membership length from members that did not reach Green yet,Yes
+I18N_NOTABLE_NETWORKERS,I18NCode for Notable Networkers Menu,Notable Networkers,Notable Networkers,Yes
+I18N_NOTES,I18NCode for Notes in Manage Tasks Page,Notes,Notes,Yes
+I18N_NOTGREEN,I18NCode for NotGreen,Not Green,Not Green,Yes
+I18N_NOTIFICATIONS,I18NCode for Notifications,Notifications,Notifications,Yes
+I18N_NOVEMBER,I18NCode for November,November,November,Yes
+I18N_NPS,I18NCode for NPS,NPS,NPS,Yes
+I18N_NUMBER_OF_MEMBERS,I18NCode for Number of Members,Number of Members,Number of Members,Yes
+I18N_NUMBER_OF_TEAMS,I18NCode for Number of teams,Number of teams,Number of teams,Yes
+I18N_NUMBER_TOTAL_SPONSORS_MEMBERS,I18NCode for Nº Total Spons Members,Total Sponsored Members,Total Sponsored Members,Yes
+I18N_OBJECTIVE_TIME,I18NCode for Objective Time,Goal Time Range,Goal Time Range,Yes
+I18N_OCTOBER,I18NCode for October,October,October,Yes
+I18N_OF,I18NCode for Of,Of,Of,Yes
+I18N_OF_PDF,I18NCode for Of Label in Datatable Pdf Export,of,of,Yes
+I18N_OF_THE_MEMBERS,I18NCode for of the members,of the Members,of the Members,Yes
+I18N_OLD,I18NCode for Old,Old,Old,Yes
+I18N_ON_FIREFOX,I18NCode for On Firefox,On Firefox,On Firefox,Yes
+I18N_ON_GOOGLE_CHROME,"i18NCode for On Google Chrome
+",On Google Chrome,On Google Chrome,Yes
+I18N_ON_INTERNET_EXPLORER,I18NCode for On Internet Explorer,On Internet Explorer,On Internet Explorer,Yes
+I18N_ON_SAFARI,I18NCode for Safari,On Safari,On Safari,Yes
+I18N_ON_TRAFFIC_LIGHTS_MARK_NEW_MEMBERS,I18NCode for On Traffic Lights Mark New Members,On Traffic Lights Mark New Members,On Traffic Lights Mark New Members,Yes
+I18N_ONE_TO_ONE,I18NCode for One-to-One's Chart,One-to-One's,One-to-One's,Yes
+I18N_ONE_TO_ONES,I18NCode for ONE-TO-ONE's,One-To-One's,One-To-One's,Yes
+I18N_ONF_IS_REQUIRED,I18NCode for ONF is required,TYFCB is required,TYFCB is required,Yes
+I18N_OPERATION,I18NCode for Operation,Operation,Operation,Yes
+I18N_OPERATION_DESCRIPTION,I18NCode for Operation Description,Operation Description,Operation Description,Yes
+I18N_OPERATIONS,I18NCode for Operations,Operations,Operations,Yes
+I18N_OPTION,I18NCode for Option,Option,Option,Yes
+I18N_OPTIONS,I18NCode for Options,Options,Options,Yes
+I18N_OPTOUT_REPORT,I18NCode for Optout Report label,Optout Report,Optout Report,Yes
+I18N_ORDER,I18NCode for Order,Order,Order,Yes
+I18N_ORIGINAL,I18NCode for Original,Original,Original,Yes
+I18N_OUT_,I18NCode for Out,Out,Out,Yes
+I18N_OVERALL_3PLUS1PERFORMANCE,I18NCode for Overall 3+1 Performance,3+1,3+1,Yes
+I18N_OVERALL_RETENTION,I18NCode for Overall Retention,Overall,Overall,Yes
+I18N_P,I18NCode for P,P,P,Yes
+I18N_PAGE,I18NCode for Page Label in Datatable Pdf Export,Page,Page,Yes
+I18N_PARENT_MENU,I18NCode for Parent Menu,Parent Menu,Parent Menu,Yes
+I18N_PARENT_MENU_OPTION,I18NCode for Parent Menu Option,Parent Menu Option,Parent Menu Option,Yes
+I18N_PASSWORD,i18NCode for Password,Password,Password,Yes
+I18N_PASSWORD_CHANGED_SUCCESSFULLY_,I18NCode for Password Changed Successfully!,Password Changed Successfully!,Password Changed Successfully!,Yes
+I18N_PASSWORD_IS_REQUIRED,I18NCode for Password is Required,Password is required,Password is required,Yes
+I18N_PASSWORD_MUST_BE_AT_LEAST_8_CHARACTERS_,I18NCode for Password Must Be At Least 8 Characters ,Password must be at leat 8 caracters,Password must be at leat 8 caracters,Yes
+I18N_PASSWORDS_DO_NOT_MATCH,I18NCode for Passwords Do Not Match,Passwords do not match,Passwords do not match,Yes
+I18N_PER_CHAPTER,I18NCode for Per Chapter,Per Chapter,Per Chapter,Yes
+I18N_PERF_INDEX,I18NCode for Market Perf.Index,Perf. Index,Perf. Index,Yes
+I18N_PERFOMANCE,I18NCode for Franchise Perfomance,Performance,Performance,Yes
+I18N_PERFORM_COMPLETE_MANAGEMENT_OF_YOUR,I18NCode for Perform complete management of your,Perform complete management of yours,Perform complete management of yours,Yes
+I18N_PERIODICITY,I18NCode for Periodicity,Periodicity,Periodicity,Yes
+I18N_PHONE,I18NCode for Phone,Phone,Phone,Yes
+I18N_PICK_RANGE_OF_DATE,I18NCode for Pick the Range of Dates for date picker label,Pick the Range of Dates,Pick the Range of Dates,Yes
+I18N_PLACE,I18NCode for Place,Place,Place,Yes
+I18N_PLEASE_CHECK_YOUR_INBOX,I18NCode for Please Check Your Inbox,Please check your inbox,Please check your inbox,Yes
+I18N_PLEASE_REQUEST_A_NEW_ACTIVATION_EMAIL,I18NCode for Please Request A New Activation Email,Please request a new activation email,Please request a new activation email,Yes
+I18N_PLEASE_WAIT,I18NCode for Please Wait,Please wait,Please wait,Yes
+I18N_PLEASE_WAIT_WHILE_WE_VALIDATE_YOUR_TOKEN,i18NCode for Please Wait While We Validate Your Token,Please wait while we validade your token,Please wait while we validade your token,Yes
+I18N_POINTS,I18NCode for Points,Points,Points,Yes
+I18N_POLL_OPTIONS,I18NCode for Poll Options,Poll options,Poll options,Yes
+I18N_POSSIBLE_RENEWALS,I18NCode for Possible Renewals in graphic,Possible Renewals,Possible Renewals,Yes
+I18N_PREVIOUS_MONTH,I18NCode for Previous Month,Previous Month,Previous Month,Yes
+I18N_PRIMARY_CONTACT_DETAILS,I18NCode for Primary Contact Details,Primary contact details,Primary contact details,Yes
+I18N_PRIORITY,I18NCode for Priority,Priority,Priority,Yes
+I18N_PRIVACY_POLICY,I18NCode for Privacy Policy,Privacy Policy,Privacy Policy,Yes
+I18N_PRIVACY_POLICY_INTRO,i18NCode for Privacy Policy Intro,"For us at <strong>DeepEye</strong>, protecting your privacy is of utmost importance. We take data protection seriously and make an active effort to attend all of our obligations and to guarantee your rights. In this privacy policy, we explain who we are and how we accomplish that.","For us at <strong>DeepEye</strong>, protecting your privacy is of utmost importance. We take data protection seriously and make an active effort to attend all of our obligations and to guarantee your rights. In this privacy policy, we explain who we are and how we accomplish that.",Yes
+I18N_PRIVATE,I18NCode for private,Private,Private,Yes
+I18N_PRIVATE_CHAT,I18NCode for Private Chat,Private Chat,Private Chat,Yes
+I18N_PRIVATE_CONVERSATIONS_ONLY,I18NCode for Private conversations only,Private conversations only,Private conversations only,Yes
+I18N_PROBABLE_RENEWALS,I18NCode for Probable Renewals in graphic,Probable Renewals,Probable Renewals,Yes
+I18N_PROCESSING_YOUR_REQUEST,I18NCode for Processing Your Request,Processing your request,Processing your request,Yes
+I18N_PROFESSION,I18NCode for hidden row in Upcoming Renewels Page,Profession,Profession,Yes
+I18N_PROFILE,I18NCode for Profile,Profile,Profile,Yes
+I18N_PROFILE_DESCRIPTION,I18NCode for Profile Descriptions,Profile Description,Profile Description,Yes
+I18N_PROFILE_DETAIL_PAGE,I18NCode for Profile detail page,Profile Detail Page,Profile Detail Page,Yes
+I18N_PROFILE_DETAILS,I18NCode for Profile Details,Profile Details,Profile Details,Yes
+I18N_PROFILE_NAME,I18NCode for Profile Name,Profile Name,Profile Name,Yes
+I18N_PROFILES,I18NCode for Profiles Menu,Profiles,Profiles,Yes
+I18N_PROGRESS,I18NCode for Progress,Progress,Progress,Yes
+I18N_PROMOTE_TO_ADMIN,I18NCode for Promote to admin,Promote to admin,Promote to admin,Yes
+I18N_PTS,I18NCode for Pts,Pts,Pts,Yes
+I18N_QUARTER,I18NCode for Quarter,Quarter,Quarter,Yes
+I18N_QUESTION,I18NCode for Question,Question,Question,Yes
+I18N_QUICK_STATS,I18NCode for Quick Stats,Quick stats,Quick stats,Yes
+I18N_R2Y_ADMINISTRATOR,I18NCodes for R2Y Administrator,R2Y Administrator,R2Y Administrator,Yes
+I18N_REASON,I18NCode for Reason,Reason,Reason,Yes
+I18N_RECEIVE_EMAIL_ALERTS_WHEN_YOU_HAVE_MESSAGES,I18NCode for Receive email alerts when you have messages,Receive email alerts for messages,Receive email alerts for messages,Yes
+I18N_RECEIVE_REPORTS,I18NCode for Receive Reports,Receive Reports,Receive Reports,Yes
+I18N_RECEIVED_IN_THE_LAST,I18NCode for Received in the last,Received in the last,Received in the last,Yes
+I18N_RECEIVED_REFERRALS,I18NCode for Received Referrals Chart,Received Referrals,Received Referrals,Yes
+I18N_RED,I18NCode for #Red on table label,#Red,#Red,Yes
+I18N_REF,I18NCode for Ref,Ref.,Ref.,Yes
+I18N_REFERRALS,I18NCode for referrals,Referrals,Referrals,Yes
+I18N_REFERRALS_IS_REQUIRED,I18NCode for Referrals is required,Referrals is required,Referrals is required,Yes
+I18N_REFERREALS_THE_REGION,I18NCode for Referreals The Region,Referrals,Referrals,Yes
+I18N_REGION,I18NCode for Région,Region,Region,Yes
+I18N_REGION_AVG,I18NCode for region Avg,Region Avg,Region Avg,Yes
+I18N_REGION_DEVELOPMENT,I18NCode for Region Development,Region Development,Region Development,Yes
+I18N_REGION_GOAL_EDIT,I18NCode for Region Goal Edit,Edit the Region Goal,Edit the Region Goal,Yes
+I18N_REGION_GOAL_MENU,I18NCode for Region Menu for Goals,Region,Region,Yes
+I18N_REGION_ID_CANNOT_EXCEED_50_CHARACTERS,I18NCode for Region ID cannot exceed 50 characters,Region ID cannot exceed 50 characters,Region ID cannot exceed 50 characters,Yes
+I18N_REGION_ID_IS_REQUIRED,I18NCode for Region ID is required,Region ID is required,Region ID is required,Yes
+I18N_REGION_LAST_MONTH,I18NCode for Region Last Month Page,Region Last Month,Region Last Month,Yes
+I18N_REGION_RETENTION_GROWTH,I18NCode for Region Retention Growth Page Title,Retention Growth,Retention Growth,Yes
+I18N_REGION_SCHEDULES,I18NCode for Region Schedules Title Page,Scheduled Operations,Scheduled Operations,Yes
+I18N_REGION_SETUP,I18NCode for Region Setup,Region Setup,Region Setup,Yes
+I18N_REGION_SIZE,I18NCode for Region Size ,Region Size,Region Size,Yes
+I18N_REGIONAL,I18NCode for Regional,Regional,Regional,Yes
+I18N_REGIONAL_ADMINISTRATION,I18NCode for Regional Administration,Regional Administration,Regional Administration,Yes
+I18N_REGIONAL_COUNT,I18NCode for Regional Count,Regional Count,Regional Count,Yes
+I18N_REGIONAL_COUNT_CONTACT_SPHERE,i18NCode for Regional Count Contact Sphere,Regional Count Contact Sphere,Regional Count Contact Sphere,Yes
+I18N_REGIONAL_INFORMATION,I18NCode for regional information,Regional information,Regional information,Yes
+I18N_REGIONAL_OPTION,I18NCode for Regional Option,Regional Option,Regional Option,Yes
+I18N_REGIONS,Region,Regions,Regions,Yes
+I18N_REGIONS__CHAPTERS__MEMBERS__AND_TEAMS,"I18NCode for Regions, Chapters, Members, and Teams","Regions, Chapters, Members and Teams","Regions, Chapters, Members and Teams",Yes
+I18N_REGIONS_EVOLUTION,I18nCode for Regions Evolution,Regions Evolution,Regions Evolution,Yes
+I18N_REGIONS_SUBSTITLE,I18NCode for Regions,Regions,Regions,Yes
+I18N_REGISTER,I18NCode for Register ,Register,Register,Yes
+I18N_REGISTER_NEW_USER,I18NCode for Register New User,Register New User,Register New User,Yes
+I18N_REGISTER_ONLY_FOR_R2Y_USERS,I18NCode for Register Only For R2Y Users,This register is only for Reporting2You users,This register is only for Reporting2You users,Yes
+I18N_RELOAD_CHART,I18NCode for the Reload Chart Button,Reload Chart,Reload Chart,Yes
+I18N_REMOVE_CONFIRMATION_BUTTON,I18NCode for Remove confirmation Button,"Yes, remove it!","Yes, remove it!",Yes
+I18N_REMOVE_FROM_THE_GROUP,I18NCode for Remove from the group,Remove from the group,Remove from the group,Yes
+I18N_REMOVE_IMAGE,I18NCode for Remove image,Remove image,Remove image,Yes
+I18N_RENEW,I18NCode for Renew,Renew at,Renew at,Yes
+I18N_RENEW_ABREVIATION,I18NCode for Renew Abreviation,Renew,Renew,Yes
+I18N_RENEW_SINGULAR,I18NCode for Renew word in singular,Renew,Renew,Yes
+I18N_RENEWALS,I18NCode for Renewals,Renewals,Renewals,Yes
+I18N_RENEWALS_IS_REQUIRED,I18NCode for Renewals is required,Renewals is required,Renewals is required,Yes
+I18N_RENEWS,I18NCode for Renews,Renew,Renew,Yes
+I18N_REPORT,I18NCode for Report,Report,Report,Yes
+I18N_REPORT_DATE,I18NCode for Report Date in Datatables Pdf Export,Report date,Report date,Yes
+I18N_REPORT_NAME,I18NCode for Report Name,Report Name,Report Name,Yes
+I18N_REPORTS,I18NCode for Reports,Reports,Reports,Yes
+I18N_REQUEST_NEW_TOKEN,I18NCode for Request New Token,Request New Token,Request New Token,Yes
+I18N_REQUIRED_CODE,Required Code,I18n Codes names is required to be unique.,I18n Codes names is required to be unique.,Yes
+I18N_RES,I18NCode for Res,Res.,Res.,Yes
+I18N_RESET,I18NCode for Reset,Reset,Reset,Yes
+I18N_RESIZE_CHAPTER_IMAGE_,I18NCode for Resize Chapter Image ,Resize chapter image,Resize chapter image,Yes
+I18N_RESIZE_PROFILE_PICTURE,I18NCode for Resize profile picture,Resize profile picture,Resize profile picture,Yes
+I18N_RESPONDING_TO,"I18NCode for Responding to
+",Responding to,Responding to,Yes
+I18N_RESULT,I18NCode for Result,Result,Result,Yes
+I18N_RET,I18NCode for Ret,Ret.,Ret.,Yes
+I18N_RET_1Y,I18NCode for Ret 1Y,Ret.1Y,Ret.1Y,Yes
+I18N_RETAIN,I18NCode for Retain,Retain,Retain,Yes
+I18N_RETENTION,Retention,Retention,Retention,Yes
+I18N_RETENTION_IS_REQUIRED,I18NCode for Retention is required,Retention is required,Retention is required,Yes
+I18N_RETURN_TO_LIST,I18NCode for Return to list,Return to list,Return to list,Yes
+I18N_RETURN_TO_LOGIN,I18NCode for Return to Login,Return to Login,Return to Login,Yes
+I18N_RETURN_TO_PREVIOUS_PAGE,I18NCode for Back to previous page,Return to previous page,Return to previous page,Yes
+I18N_RG,I18NCode for RG,RG,RG,Yes
+I18N_ROLE,I18NCode for Role,Role,Role,Yes
+I18N_RR,I18NCode for RR,RR,RR,Yes
+I18N_S,I18NCode for S,S,S,Yes
+I18N_SAVE,I18NCode for Save Button,Save,Save,Yes
+I18N_SAVED_FILES,I18NCode for Saved Files,Saved Files,Saved Files,Yes
+I18N_SCHEDULED,I18NCode to scheduled,Scheduled,Scheduled,Yes
+I18N_SCHEDULED_DATE,I18NCode for Scheduled Date in Manage Tasks,Scheduled Date,Scheduled Date,Yes
+I18N_SEARCH,I18NCode for Search,Search,Search,Yes
+I18N_SEARCH_BY,I18NCode for Search By label,Search by,Search by,Yes
+I18N_SEARCH_BY_PROFESSION,I18NCode for Search By Profession,Search by Profession,Search by Profession,Yes
+I18N_SEARCH_CHAPTER,I18NCode for Search Chapter,Search Chapter,Search Chapter,Yes
+I18N_SEARCH_CODEI18N,,Search Code I18N,Search Code I18N,Yes
+I18N_SEARCH_CONTEXT,I18NCode for search context bar,Search context,Search context,Yes
+I18N_SEARCH_COUNTRY,I18nCode for search country,Search Country,Search Country,Yes
+I18N_SEARCH_COUNTRY_LASTMONTH,I18NCode for Search Country Last Month,,,Yes
+I18N_SEARCH_DIRECTOR,I18NCode for Search Director Bar,Search Director,Search Director,Yes
+I18N_SEARCH_FOR_A_CONTACT_TO_START_A_CONVERSATION_,I18NCode for Search for a contact to start a conversation.,Find a contact to start a conversation. (Minimum 3 characters),Find a contact to start a conversation. (Minimum 3 characters),Yes
+I18N_SEARCH_LANGUAGE,I18NCode for search language bar,Search language,Search language,Yes
+I18N_SEARCH_MEMBER,I18NCode for Search Member/Chapter,Search Member,Search Member,Yes
+I18N_SEARCH_MODULE,I18NCode for search module bar,Search module,Search module,Yes
+I18N_SEARCH_PROFILES,I18NCode for Search in Profiles Page,Search Profiles,Search Profiles,Yes
+I18N_SEARCH_REGION,I18NCode for search region bar,Search Region,Search Region,Yes
+I18N_SEARCH_TRANSLATION,I18NCode for search translation bar,Search translation,Search translation,Yes
+I18N_SECONDS,I18NCode for seconds,seconds,seconds,Yes
+I18N_SEE_ALL_CONVERSATIONS,"I18NCode for See all conversations
+",See all conversations,See all conversations,Yes
+I18N_SELECT_A_CHAT_OR_CREATE_A_NEW_ONE,I18NCode for Select a chat or create a new one,Select a chat or create a new one,Select a chat or create a new one,Yes
+I18N_SELECT_A_LANGUAGE,I18NCode for Select a language,Select a language,Select a language,Yes
+I18N_SELECT_AN_IMAGE_FIRST,I18NCode for Select an image First,Select an image first.,Select an image first.,Yes
+I18N_SELECT_CHAPTER,I18NCode for Select Chapter,Select a Chapter,Select a Chapter,Yes
+I18N_SELECT_DIRECTOR,I18NCode for Select Director,Select a Director,Select a Director,Yes
+I18N_SELECT_IMAGE,I18NCode for Select Image,Select image,Select image,Yes
+I18N_SELECT_JUST_ONE_CONTACT,"I18NCode for Select just one contact
+",Select just one contact,Select just one contact,Yes
+I18N_SELECT_KPI,I18NCode for Select Kpi,Select KPI,Select KPI,Yes
+I18N_SEND,I18NCode for Send,Send,Send,Yes
+I18N_SEND_A_PRIVATE_MESSAGE_TO_MULTIPLE_RECIPIENTS_SIMULTANEOUSLY_WITH_THE_SAME_CONTENT,I18NCode for Send a private message to multiple recipients simultaneously with the same content.,Send a private message to multiple users simultaneously with the same content.,Send a private message to multiple users simultaneously with the same content.,Yes
+I18N_SEND_BROADCAST,I18NCode for Send Broadcast,Send broadcast,Send broadcast,Yes
+I18N_SEND_EMAILS,I18NCode for Send Emails,Send Emails,Send Emails,Yes
+I18N_SENDING,I18NCode for Sending,Sending...,Sending...,Yes
+I18N_SEPTEMBER,I18NCode for September,September,September,Yes
+I18N_SETUP,I18NCode for Setup,Setup,Setup,Yes
+I18N_SETUPNEWPASSWORD,I18NCode for SetupNewPassword,Setup New Password,Setup New Password,Yes
+I18N_SHARING_BUTTON_COOKIES,"I18NCode for Sharing button cookies
+",Sharing button cookies,Sharing button cookies,Yes
+I18N_SHORT_NAME,I18NCode for the short name	,ShortName,ShortName,Yes
+I18N_SHOW_ALL,I18NCode for Show All,Show all contact sphere,Show all contact sphere,Yes
+I18N_SHOW_MEMBER_ON_THEIR,I18NCode for Show Member On Their,Show Member On Their,Show Member On Their,Yes
+I18N_SHOW_MEMBERS_RENEWING_OVER_THE_NEXT,I18NCode for Show Members Renewing Over The Next,Show Members Renewing Over The Next,Show Members Renewing Over The Next,Yes
+I18N_SHOW_ONLY_CE,I18NCode for Show Only CE,Show only chapter contacts sphere ,Show only chapter contacts sphere ,Yes
+I18N_SIGN_IN,I18NCode for Sign in,Sign In,Sign In,Yes
+I18N_SIGN_OUT,I18NCode for Sign Out,Sign out,Sign out,Yes
+I18N_SIGN_UP,I18NCode for Sign Up,Sign Up,Sign Up,Yes
+I18N_SINCE,I18NCode for Since,Since,Since,Yes
+I18N_SIZE_GRAPH,I18NCode for Size on Graph,Size,Size,Yes
+I18N_SIZE_IS_REQUIRED,I18NCode for Size is required,Size is required,Size is required,Yes
+I18N_SOURCE,I18NCode for Source,Source,Source,Yes
+I18N_SPONS,I18NCode for Spons,Spons,Spons,Yes
+I18N_SPONSOR_MODAL_TITTLE,I18NCode for SPONSOR Modal TIttle,List of Sponsored by,List of Sponsored by,Yes
+I18N_SPONSOR_SINCE,I18NCode for Sponsor since,Sponsor since,Sponsor since,Yes
+I18N_SPONSORED,I18NCode for Sponsored,Sponsored,Sponsored,Yes
+I18N_SPONSORED_CHAPTER_,I18NCode for Sponsored Chapter	,Sponsored Chapter,Sponsored Chapter,Yes
+I18N_SPONSORED_REGION_,I18NCode for Sponsored Region,Sponsored Region,Sponsored Region,Yes
+I18N_START_ACTIVE_CHAPTERS,I18NCode for Start Active Chapters,Start Active Chapter,Start Active Chapter,Yes
+I18N_START_ACTIVE_MEMBERS,I18NCode for Start Active Members,Start Active Members,Start Active Members,Yes
+I18N_START_DATE,I18NCode for Start Date,Start Date,Start Date,Yes
+I18N_START_DATE_IS_REQUIRED,I18NCode for Start date is required,Start date é obrigatória,Start date é obrigatória,Yes
+I18N_START_MONITORING,I18NCode for Start Monitoring,Start Monitoring,Start Monitoring,Yes
+I18N_START_RETENTION,I18NCode for Start Retention,Start Retention,Start Retention,Yes
+I18N_START_VALUES,I18NCode for Start Values,Current Values,Current Values,Yes
+I18N_STARTS_PROCESS,"I18NCode for ""Starts Process""",starts process,starts process,Yes
+I18N_STATUS,I18NCode for status label,Status,Status,Yes
+I18N_STAY_ACTIVE,I18NCode for Stay Active,Stay active,Stay active,Yes
+I18N_SUBJECT,I18NCode for Subject,Subject,Subject,Yes
+I18N_SUBMIT,I18NCode for the submit button,Submit,Submit,Yes
+I18N_SUBMIT_CHAT_MODAL,I18NCode for Submit Chat Modal,You just created a chat.,You just created a chat.,Yes
+I18N_SUBMIT_CONFIRM_BUTTON,I18NCode for Submit Confirm Button,"Ok, got it!","OK, rozumiem!",Yes
+I18N_SUBMIT_GOALS_WARNING_TEXT,I18NCode for Submit Goals Warning Text,Unable to create goal because one already exists in that date range,"Nie można utworzyć celu, ponieważ taki już istnieje w tym zakresie dat",Yes
+I18N_SUBMIT_MODAL,I18NCode for Submit Modal Text,Form has been successfully submitted!,"Nie można utworzyć celu, ponieważ taki już istnieje w tym zakresie dat",Yes
+I18N_SUBMIT_WARNING_TEXT,I18NCode for Submit Warning Text,"Sorry, looks like there are some errors detected, please try again.","Przepraszamy, wygląda na to, że wykryto błędy. Spróbuj ponownie.",Yes
+I18N_SUBSTITUTIONS,I18NCode for SUBSTITUTIONS,Substitutions,Zastępstwa,Yes
+I18N_SUCCESS,I18NCode for Success,Success,Sukces,Yes
+I18N_SUSPENDED,I18NCode for Suspended,Suspended,Zawieszony,Yes
+I18N_SUSPENDED_CHAPTERS,I18NCode for Suspended Chapters,Suspended Chapters,Zawieszone rozdziały,Yes
+I18N_SUSPENDED_MEMBERS,I18NCode for Suspended Members,Suspended Members,Członkowie zawieszeni,Yes
+I18N_SUSPENDED_MULTI,I18NCode for Suspended in Multi,Suspended,Zawieszony,Yes
+I18N_SWITCH_TO,I18NCode for SWITCH TO,Switch to ,Przełącz na,Yes
+I18N_SYSTEM_ERROR,I18NCode for System Error,System Error,Błąd systemu,Yes
+I18N_TASK,I18NCode for Task,Tasks,Zadania,Yes
+I18N_TASK_TYPE,I18NCode for Task Type,Task Type,Typ zadania,Yes
+I18N_TASKS_FOR_FALLING_MEMBERS,I18NCode for Tasks for Falling Members,Tasks for Falling Members,Zadania dla członków spadających,Yes
+I18N_TASKS_FOR_FALLING_MEMBERS_DESCRIPTION,I18NCode for Tasks for Falling Members Description,Activate tasks for falling members,Aktywuj zadania dla spadających członków,Yes
+I18N_TASKS_FOR_MEMBERS_RENEWING,I18NCode for Tasks for Members Renewing,Tasks for Members Renewing,Zadania dla członków odnawiających,Yes
+I18N_TASKS_FOR_MEMBERS_RENEWING_DESCRIPTION,I18NCode for Tasks For Members Renewing Description,Activate tasks for members renewal,Aktywuj zadania odnowienia członkostwa,Yes
+I18N_TASKSTATUS,I18NCode for #TaskStatus in edit task modal,Task Status,Stan zadania,Yes
+I18N_TEAM,I18NCode for Team,Team,Zespół,Yes
+I18N_TEAM_INFORMATION,I18NCode for Team information,Team Information,Informacje o zespole,Yes
+I18N_TEAM_MEMBER,I18NCode for Team Member,Team Member,Członek zespołu,Yes
+I18N_TEAM_MEMBERS,I18NCode for Team Members,Team Members,Członkowie zespołu,Yes
+I18N_TEAM_WORK,I18NCode for Team Work,Team Work,Praca zespołowa,Yes
+I18N_TEAMS,I18NCode for Teams,Teams,Zespoły,Yes
+I18N_TELEPHONE_CONTACT,I18NCode for Telephone Contact,Telephone Contact,Kontakt telefoniczny,Yes
+I18N_TEST,I18NCode for Test,Test,Test,Yes
+I18N_TESTIMONY,I18NCode for Testimony,Testimony,Świadectwo,Yes
+I18N_THAN_PREVIOUS_MONTH,I18NCode for Than Previous Month,Than previous Month,Niż w poprzednim miesiącu,Yes
+I18N_THANK_YOU_FOR_CLOSING_BUSINESS,I18NCode for THANK YOU FOR CLOSING BUSINESS,Thank you for closing business,Dziękuję za zamknięcie firmy,Yes
+I18N_THE_CHAT_WAS_NOT_DELETED_,I18NCode for The chat was not deleted!,The chat was not deleted!,Czat nie został usunięty!,Yes
+I18N_THE_COOKIES_NECESSARY_FOR_NAVIGATION_ON_THE_SITE,"I18NCode for The cookies necessary for navigation on the site
+",The cookies necessary for navigation on the site,Pliki cookies niezbędne do nawigacji w serwisie,Yes
+I18N_THE_EXPIRATION_DATE_AND_TIME_MUST_BE_LATER_THAN_THE_CURRENT_DATE_,I18NCode for The expiration date and time must be later than the current date.,The expiration date and time must be later than the current date.,Data i godzina ważności muszą być późniejsze niż bieżąca data.,Yes
+I18N_THE_POLL_MUST_HAVE_AT_LEAST_2_VALID_OPTIONS_,I18NCode for The poll must have at least 2 valid options.,The poll must have at least 2 valid options.,Ankieta musi zawierać co najmniej 2 prawidłowe opcje.,Yes
+I18N_THE_QUESTION_IS_MANDATORY,I18NCode for The question is mandatory,The question is mandatory.,Pytanie jest obowiązkowe.,Yes
+I18N_THE_REGION,I18NCode for The Region,The Region,Region,Yes
+I18N_THE_REGION_IN_NUMBERS,I18NCode for The Region in Numbers,The Region in Numbers,Region w liczbach,Yes
+I18N_THE_TEAM,I18NCode for The Team,The Team,Zespół,Yes
+I18N_THE_TOKEN_PROVIDED_IS_INVALID_OR_HAS_EXPIRED,I18NCode for Invalid Or Expired Token,The token provided is invalid or has expired,Podany token jest nieprawidłowy lub wygasł,Yes
+I18N_THERE_ARE_NO_USERS_FROM_THIS_REGION,I18NCode for There are no users from this region,There are no users from this region,Brak użytkowników z tego regionu,Yes
+I18N_THERE_IS_NO_DATA_FOR_THE_CURRENT_PROFILE,I18NCode for There is no data for the current profile,There is no data for the current profile,Brak danych dla bieżącego profilu,Yes
+I18N_TILL,I18NCode for Till,Till,Do,Yes
+I18N_TIME,I18NCode for Time in Kpi Correlation Page,Time,Czas,Yes
+I18N_TIME_S_UP,I18NCode for Time's Up,Time's Up!,Czas minął!,Yes
+I18N_TO,I18NCode from To,To,Do,Yes
+I18N_TO_BELOW,"I18NCode for ""To Below""",To below,Do poniżej,Yes
+I18N_TO_GREEN,I18NCode for To Green,To Green,Do Zielonego,Yes
+I18N_TO_GREEN_LABEL_INFO,I18NCode for To Green Label Info,month(s) to reach Green,"miesięcy, aby dotrzeć do Green",Yes
+I18N_TO_RED,I18NCode for To Red,To Red,Do Czerwonego,Yes
+I18N_TO_SCHEDULE,I18NCode To schedule,To Schedule,Do Czerwonego,Yes
+I18N_TO_SHOW,I18NCode for To Show,to display.,wyświetlić.,Yes
+I18N_TO_YELLOW,I18NCode for To Yellow,To Yellow,Do Żółtego,Yes
+I18N_TOKEN_EXPIRED_MESSAGE,I18NCode for Token Expired Message,"<strong>Token Expired!</strong> Your activation Token has expired.
+<br/>
+Please request a new one to continue.",<strong>Token wygasł!</strong> Twój token aktywacyjny wygasł.,Yes
+I18N_TOOLS_TO_IMPROVE_PERFORMANCE,I18NCode for Tools to improve performance,Tools to improve performance,Narzędzia poprawiające wydajność,Yes
+I18N_TOP_3,I18NCode for Top3,Top 3,Najlepsze 3,Yes
+I18N_TOTAL,I18NCode for Total,Total,Całkowity,Yes
+I18N_TOTAL_GROUPS,I18NCode for Total Groups,Total,Całkowity,Yes
+I18N_TOTAL_MEMBERS,I18NCode for Total Members,Total members,Całkowita liczba członków,Yes
+I18N_TOTAL_NET_GROWTH,I18NCode for Total Net Growth,Total Net Growth,Całkowity wzrost netto,Yes
+I18N_TOTAL_SPONSORS,I18NCode for Total Sponsors,Total Sponsors,Wszystkich sponsorów,Yes
+I18N_TOTAL_TEAMS,I18NCode for Total Teams,Total teams,Razem zespoły,Yes
+I18N_TOTAL_TYFCB,I18NCode for Total TYFCB,Total,Całkowity,Yes
+I18N_TRADUCAOTESTE,TraducaoTeste,teste,test,Yes
+I18N_TRAFFIC_LIGHT_SYSTEM_LEADERSHIP_DESCRIPTION,I18NCode for Traffic Light System Leadership Description,Traffic light system for leadership,System sygnalizacji świetlnej dla przywództwa,Yes
+I18N_TRAFFIC_LIGHTS,I18NCode for Traffic Lights,Traffic Lights,Światła drogowe,Yes
+I18N_TRAFFIC_LIGHTS_CHAPTERS,I18NCode for Traffic Lights Chapters,Traffic Ligths / Chapters,Sygnalizacja świetlna / rozdziały,Yes
+I18N_TRAFFIC_LIGHTS_COUNTRY_,I18NCode for TRAFFIC LIGHTS Country	,Traffic Lights Country,Kraj z sygnalizacją świetlną,Yes
+I18N_TRAFFIC_LIGHTS_EVOLUTION,I18NCode for Traffic Lights Evolution,Traffic Lights Evolution,Ewolucja sygnalizacji świetlnej,Yes
+I18N_TRAFFIC_LIGHTS_EVOLUTION_COUNTRY,I18NCode for Traffic Lights Evolution Country,Traffic Lights Evolution Country,Kraj ewolucji sygnalizacji świetlnej,Yes
+I18N_TRAFFIC_LIGHTS_EVOLUTION_REGION,I18NCode for Traffic Lights Evolution Region Menu,Traffic Lights Evolution Region,Region ewolucji sygnalizacji świetlnej,Yes
+I18N_TRAFFIC_LIGHTS_MEMBERS,I18NCode for Traffic Lights Members,Traffic Lights / Members,Sygnalizacja świetlna / Członkowie,Yes
+I18N_TRAFFIC_LIGHTS_MULTIREGION,I18NCode for Traffic Lights MultiRegion,Traffic Lights MultiRegion,Sygnalizacja świetlna MultiRegion,Yes
+I18N_TRAFFIC_LIGHTS_REGION,I18NCode for Traffic Lights Region,Traffic Lights Region,Region sygnalizacji świetlnej,Yes
+I18N_TRAINING_ATTENDANCE,I18NCode for Training Attendance Chart,Training Attendance,Udział w szkoleniu,Yes
+I18N_TRANSLATED,I18NCode for Translated,Translated,Przetłumaczony,Yes
+I18N_TRANSLATION,I18NCode for Translation,Translation,Tłumaczenie,Yes
+I18N_TRANSLATION_INFORMATION_FOR,I18NCode for Translation Information For,Translation information for,Informacje o tłumaczeniu dla,Yes
+I18N_TRANSLATIONS,I18NCodes for translations,Translations,Tłumaczenia,Yes
+I18N_TRANSLATIONS_DESCRIPTION,I18NCode for translations description,Description,Opis,Yes
+I18N_TRY_AGAIN,I18NCode for Try Again,Try again,Spróbuj ponownie,Yes
+I18N_TYFCB,Thank you for closing business,TYFCB,TYFCB,Yes
+I18N_TYFCB_PER_MEMBER,I18NCode for TYFCB per Member,Per Member,Na członka,Yes
+I18N_TYFCB_TOTAL,I18NCode for TYFCB total 12 meses,Total (12 months),Razem (12 miesięcy),Yes
+I18N_TYPE,I18NCode for Type,Type,Typ,Yes
+I18N_TYPE_OF_CONVERSATION,I18NCode for type of conversation,Chat type,Typ czatu,Yes
+I18N_TYPES_OF_COOKIES_USED,I18NCode for Types of cookies used,Types of cookies used,Rodzaje używanych plików cookies,Yes
+I18N_UNABLE_TO_PROCESS_YOUR_REQUEST,I18NCode for Unable To Process Your Request,Unable to process your request,Nie można przetworzyć Twojego żądania,Yes
+I18N_UP,I18NCode for Up,Up,W górę,Yes
+I18N_UPCOMING_RENEWALS,I18NCode for Upcoming Renewels page,Upcomming Renewals,Nadchodzące odnowienia,Yes
+I18N_UPDATE,I18NCode update label header modal,Update,Aktualizacja,Yes
+I18N_UPDATE_CONTEXT,Update context label header modal	,Update ,Aktualizacja,Yes
+I18N_UPDATE_DATE_RANGE,"I18NCode for Update date range
+",Update Date Range,Zaktualizuj zakres dat,Yes
+I18N_UPDATE_LANGUAGE,Update languagelabel header modal,Update,Aktualizacja,Yes
+I18N_UPDATE_MECHANISM,I18NCode for Update Mechanism,Update Mechanism,Aktualizuj mechanizm,Yes
+I18N_UPDATE_MODULE,Update module label header modal	,Update,Aktualizacja,Yes
+I18N_UPDATE_TRANSLATIONS,Update translations label header modal,Update,Aktualizacja,Yes
+I18N_UPLOAD,I18NCode for Upload,Upload,Wgrywać,Yes
+I18N_UPLOAD_FILE_ERROR,I18NCode for Upload File Error in dropzone,File size greater than 5 MB,Rozmiar pliku większy niż 5 MB,Yes
+I18N_UPLOAD_FILES_SIZE,I18NCode for Upload Files Size label,Upload up to 2 files,Rozmiar pliku większy niż 5 MB,Yes
+I18N_USAGES,I18NCode for Usages,Usages,Zastosowania,Yes
+I18N_USE_8_OR_MORE_CHARACTERS_WITH_A_MIX_OF_LETTERS__NUMBERS___SYMBOLS_,"I18NCode for Use 8 or more characters with a mix of letters, numbers & symbols.
+","Use 8 or more characters with a mix of letters, numbers & symbols.","Użyj 8 lub więcej znaków oraz kombinacji liter, cyfr i symboli.",Yes
+I18N_USER,I18NCode for User,User,Użytkownik,Yes
+I18N_USER_CREATED_SUCCESSFULLY,I18NCode for User Created Successfully,User created successfully! Please check your email to complete registration.,Użytkownik został utworzony pomyślnie!,Yes
+I18N_USER_DOES_NOT_EXIST,I18NCode for User Does Not Exist,User does not exist,Użytkownik nie istnieje,Yes
+I18N_USER_EMAIL_NOT_FOUND,I18NCode for User/Email not found,User/Email not found,Nie znaleziono użytkownika/e-maila,Yes
+I18N_USER_PROFILE,I18NCode for User Profile,User Profile,Profil użytkownika,Yes
+I18N_USERNAME,I18NCode for UserName,Username,Nazwa użytkownika,Yes
+I18N_USERS,I18NCode for Users,Users,Użytkownicy,Yes
+I18N_VALUE,I18NCode for Value,Value,Wartość,Yes
+I18N_VIS_W,I18NCode for VisW,Vis/W,Vis/W,Yes
+I18N_VISI,I18NCode for Visi,Visi.,Wszyscy.,Yes
+I18N_VISION,I18NCode for Vision,Vision,Wizja,Yes
+I18N_VISITORS,I18NCode for Visitors,Visitors,Goście,Yes
+I18N_VISITS_12_MONTHS,I18NCode for Visits (12 months),Visitors (12 month),Odwiedzający (12 miesięcy),Yes
+I18N_VISITS_IS_REQUIRED,I18NCode for Visits is required,Visits is required,Wizyty są wymagane,Yes
+I18N_VISITS_NOT_QUALIFIED,I18NCode for Visits not qualified,Visits not Qualified,Wizyty niekwalifikowane,Yes
+I18N_VISITS_PER_WEEK__12_MONTHS_,I18NCode for Visits per Week (12 months),Visitors per Week (12 month),Odwiedzający tygodniowo (12 miesięcy),Yes
+I18N_VISNQ,I18NCode for VisNQ,VISNQ,WIŚNIOWY,Yes
+I18N_WARNING,Warning!,Warning!,Ostrzeżenie!,Yes
+I18N_WARNING_ADD_TEAM,I18NCode for Warning Add team,You are adding a new team to the game.,Dodajesz nową drużynę do gry.,Yes
+I18N_WARNING_MESSAGE,Warning message on I18NCode Update Modal,By editing the I18N Code you must remove the 'I18N' text and '_' between Words.,"Edytując kod I18N, musisz usunąć tekst „I18N” i „_” między słowami.",Yes
+I18N_WARNING_MESSAGE_ADD_KPI,I18NCode for Warning Message Add Kpi,You are adding a new Kpi to the game.,Dodajesz nowe Kpi do gry.,Yes
+I18N_WARNING_MESSAGE_AUTOMATIC_GENERATOR,I18NCode for Warning message Automatic Generator,You're automatically generating teams for the game. Auto-generating teams will remove all previous teams from the game.,Automatycznie generujesz drużyny do gry.,Yes
+I18N_WARNING_MESSAGE_CHAPTER_GOAL,I18NCode for Warning Message Chapter Goal,"You are editing chapter objectives, calculations are disabled, make sure you are absolutely sure before proceeding.","Edytujesz cele rozdziału, obliczenia są wyłączone. Przed kontynuowaniem upewnij się, że jesteś całkowicie pewien.",Yes
+I18N_WARNING_MESSAGE_CONTEXT,Warning message on context Update Modal,"By editing the Context Type, you might break the system permissions functionality. Please ensure you're absolutely certain before proceeding.","Edytując typ kontekstu, możesz przerwać działanie uprawnień systemowych.",Yes
+I18N_WARNING_MESSAGE_COUNTRY_GOAL,I18NCode for Warning Message Country GOAL,"You are editing country objectives, calculations are disabled, make sure you are absolutely sure before proceeding.","Edytujesz cele krajowe, obliczenia są wyłączone. Zanim przejdziesz dalej, upewnij się, że jesteś całkowicie pewien.",Yes
+I18N_WARNING_MESSAGE_DIRECTOR_GOAL,I18NCode for Warning Message on Modal Update Director goal menu,"You are editing director objectives, calculations are disabled, make sure you are absolutely sure before proceeding.","Edytujesz cele dyrektora, obliczenia są wyłączone, upewnij się, że masz całkowitą pewność przed kontynuowaniem.",Yes
+I18N_WARNING_MESSAGE_EDIT_TEAM,I18NCode for Warning Message Edit Team,"You are editing a team, make sure you are absolutely sure before proceeding.","Edytujesz zespół, zanim przejdziesz dalej, upewnij się, że masz całkowitą pewność.",Yes
+I18N_WARNING_MESSAGE_GROUP_MECHANISMS,I18NCode for Warning Message in Group Mechanisms Update Modal,"You are editing chapter mechanisms, make sure you are absolutely sure before proceeding.","Edytujesz mechanizmy rozdziałów, zanim przejdziesz dalej, upewnij się, że masz całkowitą pewność.",Yes
+I18N_WARNING_MESSAGE_LANGUAGE,Warning message on language Update Modal,"By editing the Language translation, you might break the system permissions functionality. Please ensure you're absolutely certain before proceeding.","Edytując tłumaczenie języka, możesz uszkodzić funkcjonalność uprawnień systemowych.",Yes
+I18N_WARNING_MESSAGE_MEMBER_MECHANISMS,I18NCode for Warning Message Member Mechanisms,"You are editing member mechanisms, make sure you are absolutely sure before proceeding.","Edytujesz mechanizmy członkowskie, upewnij się, że masz całkowitą pewność przed kontynuowaniem.",Yes
+I18N_WARNING_MESSAGE_MENU,I18NCode for Warning Message on Menu,"By editing the permission Menu, you might break the system permissions functionality. Please ensure you're absolutely certain before  proceeding.","Edytując menu uprawnień, możesz uszkodzić funkcjonalność uprawnień systemowych.",Yes
+I18N_WARNING_MESSAGE_MODULE,Warning message on module Update Modal	,"By editing the Module Type, you might break the system permissions functionality. Please ensure you're absolutely certain before proceeding.","Edytując menu uprawnień, możesz uszkodzić funkcjonalność uprawnień systemowych.",Yes
+I18N_WARNING_MESSAGE_MULTI_REGION_GOAL,I18NCode for I18NCode for Warning Message Multi Region GOAL,"You are editing multi region objectives, calculations are disabled, make sure you are absolutely sure before proceeding.","Edytując typ modułu, możesz przerwać działanie uprawnień systemowych.",Yes
+I18N_WARNING_MESSAGE_NO_GAMES,I18NCode for WARNING MESSAGE NO Games,Start by adding a bni game.,"Edytujesz cele obejmujące wiele regionów, obliczenia są wyłączone. Przed kontynuowaniem upewnij się, że masz całkowitą pewność.",Yes
+I18N_WARNING_MESSAGE_NO_KPI_ON_GAME,I18NCode for Warning Message No Kpi On Game,Start by adding a KPI to a game.,Zacznij od dodania KPI do gry.,Yes
+I18N_WARNING_MESSAGE_NO_TEAMS,I18NCode for Warning message No Teams,Start by creating Teams for your BNI Game.,Zacznij od utworzenia zespołów dla swojej gry BNI.,Yes
+I18N_WARNING_MESSAGE_PROFILE,Warning message on Update Modal in Profile Page,"By editing the Context Type, you can break the system's permissions functionality. Make sure you are absolutely sure before proceeding.","Edytując typ kontekstu, możesz przerwać funkcjonalność uprawnień systemu.",Yes
+I18N_WARNING_MESSAGE_REGION_GOAL,I18NCode for Warning message on Modal update region goal menu,"You are editing region objectives, calculations are disabled, make sure you are absolutely sure before proceeding.","Edytujesz cele regionu, obliczenia są wyłączone. Zanim przejdziesz dalej, upewnij się, że masz absolutną pewność.",Yes
+I18N_WARNING_MESSAGE_TRANSLATION,Warning message on translation Update Modal,By editing the translation will update the description for the specific CodeI18N.,Edycja tłumaczenia zaktualizuje opis dla konkretnego CodeI18N.,Yes
+I18N_WCA_DESCRIPTION,I19NCode for WCA description,"This is a <strong>weekly report</strong> that usually is sent to each <strong>Leadership Team</strong> every Monday 9PM.<br/>
+
+The goal is to give information that President (Chapter Director in England), Vice-President and Secretary/Treasurer usually needs to dig on several BNIConnect reports to run their role.<br/>
+
+With this report, the President can easily select the meeting stimulant or his final words to the meeting.<br/>
+
+The Vice-President can understand who needs special attention and work with his coordinators to improve member performance.<br/>
+
+The Events Coordinator understands who is not attending training and needs special motivational speech to do it.","Jest to <strong>raport tygodniowy</strong>, który zwykle jest wysyłany do każdego <strong>zespołu kierowniczego</strong> w każdy poniedziałek o 21:00.<br/>",Yes
+I18N_WCA_WEEKLY_CHAPTER_ALERT_REPORT,I18NCode for WCA Weekly Chapter Alert Report,WCA - Weekly Chapter Alert Report,WCA – Cotygodniowy raport o alertach oddziału,Yes
+I18N_WE_NEED_YOU_TO_UPLOAD_A_PHOTO_OF_YOURSELF_,I18NCode for We need you to upload a photo of yourself.,We need you to upload a photo of yourself,"Potrzebujemy, abyś przesłał swoje zdjęcie",Yes
+I18N_WE_NEED_YOUR_ATTENTION,I18NCode for We need your Attention,We need your attention,Potrzebujemy Twojej uwagi,Yes
+I18N_WEBSITE,I18NCode for website,Website,Strona internetowa,Yes
+I18N_WEEK_MEMBER_6AM,I18nCode for /week/member (6m),/week/member (6m),/tydzień/członek (6m),Yes
+I18N_WEEKLY_ALERT_REPORTS_SETTINGS,I18NCode for Weekly Alert Reports Settings,Weekly Alert Reports Settings,Ustawienia cotygodniowych raportów alertów,Yes
+I18N_WEEKS,I18NCode for Weeks,Weeks,Tygodnie,Yes
+I18N_WELCOME,Welcome message,Welcome,Powitanie,Yes
+I18N_WELCOME_TO_REPORTING2YOU_,I18NCode for Welcome to Reporting2You!,Welcome to Reporting2You,Witamy w Reporting2You,Yes
+I18N_WELCOME_TO_THE_MESSAGING_CHAT,I18NCode for Welcome to the messaging chat,Welcome to the Messaging Chat,Witamy na czacie wiadomości,Yes
+I18N_WHAT_AREY_OUR_RIGHTS,I18NCode for What are your rights,What are your rights?,Jakie masz prawa?,Yes
+I18N_WHAT_INFORMATION_DO_WE_COLLECT_ABOUT_YOU,I18NCode for What information do we collect about you,What information do we collect about you?,Jakie informacje o Tobie zbieramy?,Yes
+I18N_WHAT_IS_A_COOKIE,I18NCode for What is a Cookie,What is a Cookie?,Co to jest plik cookie?,Yes
+I18N_WHAT_IS_OUR_LEGAL_BASIS_FOR_PROCESSING_YOUR_PERSONAL_DATA,I18NCode for What is our legal basis for processing your personal data,What is our legal basis for processing your personal data?,Jaka jest nasza podstawa prawna przetwarzania Twoich danych osobowych?,Yes
+I18N_WHO_ARE_WE,I18NCode for Who are we,Who we are?,Kim jesteśmy?,Yes
+I18N_WHO_RECEIVES_YOUR_INFORMATION,I18NCode for Who receives your information,Who receives your information?,Kto otrzymuje Twoje informacje?,Yes
+I18N_WITH_LESS_THAN,"I18NCode for ""With Less than""",With Less than,Z Mniej niż,Yes
+I18N_WITH_THIS_MEMBERSHIP_LENGTH,I18NCode for With this Membership length,with this membership length,przy tej długości członkostwa,Yes
+I18N_WITHOUT,I18NCode for Without,Without,Bez,Yes
+I18N_WITHOUT_PAYMENT,I18NCode for Without Payment,Without Payment,Bez płatności,Yes
+I18N_WORLD_RANK,I18NCode for World Rank ,World Rank,Światowa ranga,Yes
+I18N_WRITE_A_MESSAGE,I18NCode for Write a message,Write a message,Napisz wiadomość,Yes
+I18N_WRITE_THE_MESSAGE_TO_SEND_TO_EVERYONE,I18NCode for Write the message to send to everyone,Write the message to send to everyone,"Napisz wiadomość, którą chcesz wysłać do wszystkich",Yes
+I18N_WRONG_FILE_SELECTED,I18NCode for Wrong File Selected,Error selecting file.,Błąd podczas wybierania pliku.,Yes
+I18N_YEAR,I18NCode for Year,Year,Rok,Yes
+I18N_YEARMONTH,I18NCode for YearMonth,YearMonth,RokMiesiąc,Yes
+I18N_YEARS,I18NCode for Years,Years,Lata,Yes
+I18N_YES,I18NCode for Yes,Yes,Tak,Yes
+I18N_YLW,I18NCode for #Ylw on table label,#Ylw,#Lw,Yes
+I18N_YOU_HAVE_BEEN_INVITED_TO_REGISTER_WITH_REPORTING2YOU_,I18NCode for You have been invited to register with Reporting2You.,You have been invited to register with Reporting2You.,Zostałeś zaproszony do rejestracji w Reporting2You.,Yes
+I18N_YOU_HAVE_NO_SPONSORED,I18NCode for You have no sponsored,You have no sponsored,Nie masz sponsorowanych,Yes
+I18N_YOU_WILL_BE_REDIRECTED_TO_THE_LOGIN_PAGE_IN,I18NCode for You will be redirected to the login page in,You will be redirected to the login page in,Zostaniesz przekierowany na stronę logowania w,Yes
+I18N_YOUR_CHAPTER,i18NCode for Your Chapter,Your Chapter,Twój rozdział,Yes
+I18N_YOUR_GOAL,I18NCode represent % of your goal,% of goal,% bramki,Yes
+I18N_YOUR_SESSION_WILL_BE_INACTIVE_IN,I18NCode for Your session will be inactive in,Your session will be inactive in,Twoja sesja będzie nieaktywna w,Yes
+I18N_ZERO_ONE_TO_ONES_PER_WEEK,I18NCode for ZeroOneToOne per Week,Zero one to ones per week,Zero jeden do jednego na tydzień,Yes
+I18N_ZERO_REFERRALS,I18NCode for Zero Referrals,Zero Referrals,Zero skierowań,Yes
+I18N_ZERO_REFERREALS_PER_WEEK,I18NCode for ZEROReferrals,Zero referrals per Week,Zero poleceń tygodniowo,Yes
+I18N_ZERO_TO_ONE,I18NCode for Zero To One´s Section in Region Retention Growth,Zero-to-Ones,Zero do jedności,Yes
+I18N_ZERO_TYFCB_PER_WEEK,I18NCode for Zero TYFCB per Week,Zero TYFCB per week,Zero TYFCB tygodniowo,Yes
+I18N_ZERO_VISITS_PER_WEEK,I18NCode for ZeroVisits per Week,Zero visitors per month,Zero odwiedzin miesięcznie,Yes
+I18N_ZEROOTO_W,I18NCode for ZeroOTO/week,ZeroOTO/W,ZeroOTO/W,Yes
+I18N_ZEROTYFCB_W,I18NCode for ZeroTYFCB/week,ZeroTYFCB/W,ZeroTYFCB/W,Yes
+I18N_ZEROVIS_M,I18NCode for ZeroVIS/month,ZeroVIS/M,ZeroVIS/M,Yes
+I18N_ZIP_CODE,I18NCode for Zip Code,Zip Code,Kod pocztowy,Yes

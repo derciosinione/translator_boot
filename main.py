@@ -7,6 +7,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import StaleElementReferenceException
 from webdriver_manager.chrome import ChromeDriverManager
 
 # -----------------------------
@@ -16,58 +19,17 @@ start_time = time.time()
 OUTPUT_DIR = "output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Find Input CSV
-import sys
-
-csv_files = []
-
-# 1. From CLI Argument
-if len(sys.argv) > 1:
-    potential_file = sys.argv[1]
-    if os.path.isfile(potential_file):
-        csv_files.append(potential_file)
-
-# 2. From 'import' directory
-if not csv_files and os.path.isdir("import"):
-    csv_files = [f for f in glob.glob("import/*.csv") if "output" not in f]
-
-# 3. From current directory (fallback)
-if not csv_files:
-     csv_files = [f for f in glob.glob("*.csv") if "output" not in f and not f.startswith("generated_")]
-
-if not csv_files:
-    raise FileNotFoundError("No input CSV file found (checked CLI arg, 'import/' folder, and current directory).")
-
-# Pick the first one (or arguably the most recent, but first is fine for now)
-INPUT_CSV = csv_files[0]
-print(f"📄 Processing File: {INPUT_CSV}")
-
-# Load CSV to detect columns
-df = pd.read_csv(INPUT_CSV)
-
-# Detect Columns
-source_col = None
-target_col = None
-target_lang_code = "unknown"
-
-for col in df.columns:
-    if "Default_Translation" in col:
-        source_col = col
-    elif "Target_Translation" in col:
-        target_col = col
-        # Extract language code from "Target_Translation (de-de)" -> "de-de"
-        match = re.search(r'\((.*?)\)', col)
-        if match:
-            target_lang_code = match.group(1)
-
-if not source_col or not target_col:
-    raise ValueError(f"Could not automatically detect Source or Target columns in {INPUT_CSV}. Found columns: {df.columns.tolist()}")
-
-print(f"✔ detected Source Column: {source_col}")
-print(f"✔ detected Target Column: {target_col}")
-print(f"✔ detected Target Language: {target_lang_code}")
-
-OUTPUT_CSV = os.path.join(OUTPUT_DIR, f"translated_{target_lang_code}.csv")
+# Define Files to Process
+FILES_TO_PROCESS = [
+    {"input": "import/test_skip.csv"}, 
+    {"input": "import/Export_bg-bg_16012026.csv"},
+    {"input": "import/Export_it-it_16012026.csv"},
+    {"input": "import/Export_lt-lt_16012026.csv"},
+    {"input": "import/Export_lv-lv_16012026.csv"},
+    {"input": "import/Export_nl-nl_16012026.csv"},
+    {"input": "import/Export_pl-pl_15012026.csv"},
+    {"input": "import/Export_sl-si_16012026.csv"},
+]
 
 # -----------------------------
 # Browser setup
@@ -80,50 +42,129 @@ driver = webdriver.Chrome(
     options=options
 )
 
-# Construct URL based on detected language (assuming source is always english/auto, or we could extract that too)
-# The user's original URL was: https://translate.google.com/?sl=en&tl=de&op=translate
-# If we want to be safe, we can try to use the code. Note: Google Translate codes usually match 2-letter ISO, but 'de-de' might need just 'de'.
-# Let's take the first part of the code if it has a hyphen for the URL, e.g. 'de-de' -> 'de'
-tl_param = target_lang_code.split('-')[0]
-url = f"https://translate.google.com/?sl=auto&tl={tl_param}&op=translate"
-driver.get(url)
-time.sleep(5)
+# Deduplicate FILES_TO_PROCESS
+seen_inputs = set()
+unique_files = []
+for f in FILES_TO_PROCESS:
+    if f["input"] not in seen_inputs:
+        unique_files.append(f)
+        seen_inputs.add(f["input"])
+FILES_TO_PROCESS = unique_files
 
-translations = []
+try:
+    for file_config in FILES_TO_PROCESS:
+        input_csv = file_config["input"]
+        # Output is now dynamic based on detected language
 
-for i, text in enumerate(df[source_col]):
-    if pd.isna(text) or str(text).strip() == "":
-        translations.append(text)
-        continue
+        if not os.path.exists(input_csv):
+            print(f"⚠️  Input file not found: {input_csv}. Skipping.")
+            continue
 
-    try:
-        input_box = driver.find_element(By.TAG_NAME, "textarea")
-        input_box.clear()
-        input_box.send_keys(str(text))
+        print(f"\n📄 Processing File: {input_csv}")
 
-        time.sleep(2)
+        # Load CSV
+        df = pd.read_csv(input_csv)
 
-        output = driver.find_element(
-            By.CSS_SELECTOR,
-            "span[jsname='W297wb']"
-        ).text
+        # Detect Columns
+        source_col = None
+        target_col = None
+        target_lang_code = "unknown"
 
-        translations.append(output)
-        print(f"✔ {i+1}/{len(df)} translated")
+        for col in df.columns:
+            if "Default_Translation" in col:
+                source_col = col
+            elif "Target_Translation" in col:
+                target_col = col
+                match = re.search(r'\((.*?)\)', col)
+                if match:
+                    target_lang_code = match.group(1)
 
-    except Exception as e:
-        print(f"✖ Error at line {i+1}: {e}")
-        translations.append(text)
+        if not source_col or not target_col:
+            print(f"✖ Could not detect columns in {input_csv}. Skipping.")
+            continue
 
-df[target_col] = translations
-df["Has_Translation"] = "Yes"
+        print(f"✔ detected Source Column: {source_col}")
+        print(f"✔ detected Target Column: {target_col}")
+        print(f"✔ detected Target Language: {target_lang_code}")
 
-df.to_csv(OUTPUT_CSV, index=False, encoding="utf-8-sig")
+        # Dynamic Output Filename
+        output_csv = os.path.join(OUTPUT_DIR, f"translated_{target_lang_code}.csv")
 
-driver.quit()
+        # Navigate to Google Translate
+        tl_param = target_lang_code.split('-')[0]
+        url = f"https://translate.google.com/?sl=en&tl={tl_param}&op=translate"
+        driver.get(url)
+        time.sleep(5)
 
-print("\n✅ Translation Complete!")
-print(f"📄 Generated File: {OUTPUT_CSV}")
+        translations = []
+        total_rows = len(df)
+
+        for i in range(total_rows):
+            source_text = df.at[i, source_col]
+            existing_target = df.at[i, target_col]
+
+            # Check existing translation
+            if not pd.isna(existing_target) and str(existing_target).strip() != "":
+                translations.append(existing_target)
+                continue
+
+            # Check valid source
+            if pd.isna(source_text) or str(source_text).strip() == "":
+                translations.append(source_text)
+                continue
+
+            # Retry logic for translation to handle StaleElementReferenceException
+            max_retries = 3
+            translated_text = None
+            
+            for attempt in range(max_retries):
+                try:
+                    # Wait for input box to be present and interactable
+                    input_box = WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.TAG_NAME, "textarea"))
+                    )
+                    input_box.clear()
+                    input_box.send_keys(str(source_text))
+
+                    # Smart Wait: Wait until the output element is present AND has text (length > 0)
+                    # This ensures we don't read an empty box or "Translating..." state too early.
+                    # We create a custom condition lambda for this.
+                    def output_has_text(d):
+                        elm = d.find_element(By.CSS_SELECTOR, "span[jsname='W297wb']")
+                        return len(elm.text.strip()) > 0 and elm.text.strip() != "Translating..."
+
+                    output_element = WebDriverWait(driver, 15).until(output_has_text)
+                    
+                    # Re-find the element to avoid staleness after the wait condition (safest)
+                    output_element = driver.find_element(By.CSS_SELECTOR, "span[jsname='W297wb']")
+                    translated_text = output_element.text
+                    
+                    # If we got here, success
+                    translations.append(translated_text)
+                    print(f"✔ {i+1}/{total_rows} translated")
+                    break
+
+                except (StaleElementReferenceException, Exception) as e:
+                    if attempt < max_retries - 1:
+                        time.sleep(1) # Wait a bit before retrying
+                        continue
+                    else:
+                        print(f"✖ Error at line {i+1} after {max_retries} attempts: {e}")
+                        translations.append(source_text)
+
+        df[target_col] = translations
+        df["Has_Translation"] = "Yes"
+
+        # Ensure output directory exists (already ensured globally, but good practice)
+        os.makedirs(os.path.dirname(output_csv), exist_ok=True)
+        df.to_csv(output_csv, index=False, encoding="utf-8-sig")
+        print(f"✅ Generated File: {output_csv}")
+
+finally:
+    driver.quit()
+
+print("\n🏁 All tasks completed.")
+
 
 end_time = time.time()
 elapsed_minutes = (end_time - start_time) / 60
