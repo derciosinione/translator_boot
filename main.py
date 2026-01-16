@@ -3,6 +3,7 @@ import time
 import os
 import glob
 import re
+import random
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -20,16 +21,10 @@ OUTPUT_DIR = "output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Define Files to Process
-FILES_TO_PROCESS = [
-    {"input": "import/test_skip.csv"}, 
-    {"input": "import/Export_bg-bg_16012026.csv"},
-    {"input": "import/Export_it-it_16012026.csv"},
-    {"input": "import/Export_lt-lt_16012026.csv"},
-    {"input": "import/Export_lv-lv_16012026.csv"},
-    {"input": "import/Export_nl-nl_16012026.csv"},
-    {"input": "import/Export_pl-pl_15012026.csv"},
-    {"input": "import/Export_sl-si_16012026.csv"},
-]
+# Automatically find all CSV files in the 'import' directory
+csv_files = glob.glob(os.path.join("import", "*.csv"))
+FILES_TO_PROCESS = [{"input": f} for f in csv_files]
+
 
 # -----------------------------
 # Browser setup
@@ -113,6 +108,9 @@ try:
                 translations.append(source_text)
                 continue
 
+            # Random delay to mimic human behavior and avoid rate limits
+            time.sleep(random.uniform(1.5, 3.5))
+
             # Retry logic for translation to handle StaleElementReferenceException
             max_retries = 3
             translated_text = None
@@ -124,20 +122,52 @@ try:
                         EC.presence_of_element_located((By.TAG_NAME, "textarea"))
                     )
                     input_box.clear()
+                    
+                    # Small wait after clear to let UI catch up
+                    time.sleep(0.5)
+                    
                     input_box.send_keys(str(source_text))
 
                     # Smart Wait: Wait until the output element is present AND has text (length > 0)
-                    # This ensures we don't read an empty box or "Translating..." state too early.
                     # We create a custom condition lambda for this.
                     def output_has_text(d):
-                        elm = d.find_element(By.CSS_SELECTOR, "span[jsname='W297wb']")
+                        elms = d.find_elements(By.CSS_SELECTOR, "span[jsname='W297wb']")
+                        if not elms:
+                            return False
+                        elm = elms[0]
                         return len(elm.text.strip()) > 0 and elm.text.strip() != "Translating..."
 
-                    output_element = WebDriverWait(driver, 15).until(output_has_text)
+                    WebDriverWait(driver, 15).until(output_has_text)
                     
-                    # Re-find the element to avoid staleness after the wait condition (safest)
+                    # Stability Check: Ensure text doesn't change for a moment (handling ongoing translation)
+                    # We start with a baseline text
                     output_element = driver.find_element(By.CSS_SELECTOR, "span[jsname='W297wb']")
-                    translated_text = output_element.text
+                    current_text = output_element.text
+                    
+                    # Verify stability for up to 5 seconds
+                    stable_start = time.time()
+                    is_stable = False
+                    
+                    while time.time() - stable_start < 5:
+                        time.sleep(0.5)
+                        try:
+                            # Re-fetch element to avoid staleness
+                            new_element = driver.find_element(By.CSS_SELECTOR, "span[jsname='W297wb']")
+                            new_text = new_element.text
+                            
+                            if new_text == current_text and new_text.strip() != "":
+                                is_stable = True
+                                break
+                            else:
+                                current_text = new_text
+                        except StaleElementReferenceException:
+                             continue # If stale, retry loop
+
+                    if is_stable:
+                        translated_text = current_text
+                    else:
+                         # If we timed out waiting for stability, just take what we have
+                        translated_text = current_text
                     
                     # If we got here, success
                     translations.append(translated_text)
