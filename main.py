@@ -85,6 +85,35 @@ try:
         # Dynamic Output Filename
         output_csv = os.path.join(OUTPUT_DIR, f"translated_{target_lang_code}.csv")
 
+        # ------------------------------------------------------
+        # Pre-check: Identify rows that actually need translation
+        # ------------------------------------------------------
+        total_rows = len(df)
+        rows_to_process = []
+        
+        for i in range(total_rows):
+            source_text = df.at[i, source_col]
+            existing_target = df.at[i, target_col]
+            
+            # Condition 1: Source must be valid
+            if pd.isna(source_text) or str(source_text).strip() == "":
+                continue
+                
+            # Condition 2: Target must be missing/empty
+            if not pd.isna(existing_target) and str(existing_target).strip() != "":
+                continue
+                
+            rows_to_process.append(i)
+
+        count_needed = len(rows_to_process)
+        print(f"📊 Rows total: {total_rows}")
+        print(f"⏭  Already translated/Empty: {total_rows - count_needed}")
+        print(f"🔄 Need translation: {count_needed}")
+
+        if count_needed == 0:
+            print(f"✅ File {input_csv} is already fully translated. Skipping.")
+            continue
+
         # Navigate to Google Translate
         tl_param = target_lang_code.split('-')[0]
         url = f"https://translate.google.com/?sl=en&tl={tl_param}&op=translate"
@@ -92,22 +121,24 @@ try:
         time.sleep(5)
 
         translations = []
-        total_rows = len(df)
-
+        # Initialize translations list with existing values so we can update specific indices
+        # or better, just update the DF directly in the loop. 
+        # But for safety, let's keep the DF update at the end or update a copy.
+        # Actually, let's allow updating the DF in place for the rows we process.
+        # HOWEVER, the original code rebuilt a 'translations' list for the whole column.
+        # We should stick to that pattern or initialize it with the current column data.
+        
+        # Let's initialize 'translations' with the current column data to preserve existing ones
+        current_target_data = df[target_col].tolist()
+        
         for i in range(total_rows):
+            # If this row wasn't marked for processing, skip it (it's either done or empty)
+            if i not in rows_to_process:
+                # print(f"Skipping line {i+1} (Done/Empty)") # Optional: too verbose
+                continue
+            
             source_text = df.at[i, source_col]
-            existing_target = df.at[i, target_col]
-
-            # Check existing translation
-            if not pd.isna(existing_target) and str(existing_target).strip() != "":
-                translations.append(existing_target)
-                continue
-
-            # Check valid source
-            if pd.isna(source_text) or str(source_text).strip() == "":
-                translations.append(source_text)
-                continue
-
+            
             # Random delay to mimic human behavior and avoid rate limits
             time.sleep(random.uniform(1.5, 3.5))
 
@@ -170,7 +201,8 @@ try:
                         translated_text = current_text
                     
                     # If we got here, success
-                    translations.append(translated_text)
+                    # Update our local list (which mimics the column)
+                    current_target_data[i] = translated_text
                     print(f"✔ {i+1}/{total_rows} translated")
                     break
 
@@ -180,9 +212,12 @@ try:
                         continue
                     else:
                         print(f"✖ Error at line {i+1} after {max_retries} attempts: {e}")
-                        translations.append(source_text)
+                        # Keep original if failed? or empty? Original logic kept source, let's keep source or existing
+                        # But wait, we are in 'rows_to_process', so existing was empty.
+                        # Original logic: translations.append(source_text).
+                        current_target_data[i] = source_text
 
-        df[target_col] = translations
+        df[target_col] = current_target_data
         df["Has_Translation"] = "Yes"
 
         # Ensure output directory exists (already ensured globally, but good practice)
